@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml.gz"
+#EXTINF:-1 group-title="CATALUNYA",3Cat Info
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+#EXTINF:-1 group-title="CATALUNYA",SX3
+https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
+#EXTINF:-1 group-title="CATALUNYA",TV3
+https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
+#EXTINF:-1 group-title="CATALUNYA",33
+https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+#EXTINF:-1 group-title="CATALUNYA",3CAT Exclusiu 1
+https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
+#EXTINF:-1 group-title="CATALUNYA",3CAT Exclusiu 2
+https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
+#EXTINF:-1 group-title="CATALUNYA",3CAT Exclusiu 3
+https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
+#EXTINF:-1 group-title="CATALUNYA",3CAT El búnquer
+https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
+#EXTINF:-1 group-title="CATALUNYA",3CAT Plats bruts
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+#EXTINF:-1 group-title="CATALUNYA",3CAT Vinagreta
+https://fast-tailor.3catdirectes.cat/v1/channel/vinagreta/hls.m3u8
+#EXTINF:-1 group-title="CATALUNYA",3CAT Joc de Cartes
+https://fast-tailor.3catdirectes.cat/v1/channel/joc-de-cartes/hls.m3u8
+#EXTINF:-1 group-title="CATALUNYA",3CAT Verdi Classics
+https://directes-tv-es.3catdirectes.cat/live-content/tem1-hls/master.m3u8
+#EXTINF:-1 group-title="CATALUNYA",3CAT Anime
+https://directes-tv-es.3catdirectes.cat/live-content/tem2-hls/master.m3u8
+#EXTINF:-1 group-title="CATALUNYA",La 1 Catalunya
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+#EXTINF:-1 group-title="CATALUNYA",La 2 Catalunya
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 group-title="CATALUNYA",24h Catalunya
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:-1 group-title="CATALUNYA",TV L'Hospitalet
+https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR
+#EXTINF:-1 group-title="CATALUNYA",3CAT Càmeres del temps
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:-1 group-title="CATALUNYA",Govern de la Generalitat de Catalunya
+https://www.youtube.com/channel/UCLaqEt7ZJeqFCI2WB6XLz8w/live
+#EXTINF:-1 group-title="CATALUNYA",TV3.CAT
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
