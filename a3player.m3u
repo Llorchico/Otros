@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Antena 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/08/01/FB8A45B6-7371-43C3-8757-B32C681877DB.png",Antena 3
-https://atres-live.atresmedia.com/26f1ec4200f76cd8304af97b087a662b27d5584c_ES_1786553363_1786582103/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Antena 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2025/02/11/896D4AD3-C983-41F7-9C90-4DE204B87EBC.png",Antena 3
+https://atres-live.atresmedia.com/0e626c25082205e1d207b7ea7036cfe7ce28f3bc_ES_1786568633_1786597373/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
 
 #EXTINF:-1 group-title="Atresplayer" tvg-name="Aqui No Hay Quien Viva" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/9F9EF36E-8B6F-4817-8E0A-94B6B8DFBE54.png",Aqui No Hay Quien Viva
 https://fast-channels.atresmedia.com/d571d554603330653a3c29a2c7a4682da5877043/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Atreseries" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2026/03/20/42BBDBB8-D3B3-4287-8B94-9F3A9A633CC1.png",Atreseries
-https://atres-live.atresmedia.com/86f2625d6e14e029285b7f9260005665040162e8_ES_1786553365_1786582105/hlsts/live/a3series_usp/a3series_usp.isml/playlist.m3u8
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Atreseries" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2026/05/04/855D2CBE-3B0F-456F-90A9-004715DECFE2.png",Atreseries
+https://atres-live.atresmedia.com/e5c1159efa39d65ffdc95b1b2c7706559135d8c2_ES_1786568635_1786597375/hlsts/live/a3series_usp/a3series_usp.isml/playlist.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Canal Flooxer" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2024/02/08/63DFC55A-B40F-4FC7-942D-DDE2645CD841.png",Canal Flooxer
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Canal Flooxer",Canal Flooxer
 https://fast-channels.atresmedia.com/89abe881a2cc5a04f717ef93b0320144d9e14e9b/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Canal Kidz" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/07/04/D1360ED6-72F5-49BC-8525-1B643BAD6DE1.png",Canal Kidz
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Canal Kidz" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/07/04/C5C6C6E4-E7AB-481C-9D69-3EC9ABF96254.png",Canal Kidz
 https://fast-channels.atresmedia.com/ec29589e0d788f9f80e7caac600c17e29a53d580/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 
 #EXTINF:-1 group-title="Atresplayer" tvg-name="Clasicos" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/29/A62C1EB9-C6D1-47B0-93AB-7B1FC6EBD0B9.png",Clasicos
@@ -20,12 +20,6 @@ https://fast-channels.atresmedia.com/9108a9f2cb705173ce4e32ebeaf9bd31ee6f94d3/64
 
 #EXTINF:-1 group-title="Atresplayer" tvg-name="Comedia" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/EDC559B7-5B07-40F8-BF03-3794E1E15081.png",Comedia
 https://fast-channels.atresmedia.com/b272237434cd898700a59c77f173b893fbc15134/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
-
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Eclipse En Directo Desde El Cielo En Un Avion De Iberia",Eclipse En Directo Desde El Cielo En Un Avion De Iberia
-https://atres-live.atresmedia.com/16e382c10a0c10afb0fe7f9bcd3744ee3f56e115_ES_1786553367_1786582107/h264/live/eventos03/master.m3u8
-
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Eclipse En Directo Desde El Observatorio De Yebes Guadalajara",Eclipse En Directo Desde El Observatorio De Yebes Guadalajara
-https://atres-live.atresmedia.com/f2707f8e985d4eb980e8f6ee1bfaea61943def4b_ES_1786553367_1786582107/h264/live/eventos04/master.m3u8
 
 #EXTINF:-1 group-title="Atresplayer" tvg-name="El Club De La Comedia" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/07/04/E3636295-CCD9-4325-8293-E9867F457A9C.png",El Club De La Comedia
 https://fast-channels.atresmedia.com/4e0400225ce0b0f169cef8491f97345094c76b6e/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8
@@ -39,20 +33,20 @@ https://fast-channels.atresmedia.com/8532947a271768ef03954a8152567c8b3d733fb5/64
 #EXTINF:-1 group-title="Atresplayer" tvg-name="Foq" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/FFCBCC26-2F14-4B8C-BE0C-FACC7C5AD13A.png",Foq
 https://fast-channels.atresmedia.com/3d67b72fb46667b7b0323ea8d4d6392184299be3/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="laSexta" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/07/04/0BE4DF1B-FA09-450D-A8DD-2542C2C0F7A1.png",laSexta
-https://atres-live.atresmedia.com/0a03f474c6cceb3bebde722c767577cf50547dc5_ES_1786553364_1786582104/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
+#EXTINF:-1 group-title="Atresplayer" tvg-name="laSexta" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2026/07/23/031C7885-6DFA-4861-B0DC-E70DDE6B2601.png",laSexta
+https://atres-live.atresmedia.com/b335d2e059222cc46b9cdec91a796e74ba49d753_ES_1786568633_1786597373/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Mega" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2025/05/19/BD46799B-086E-45E5-BD43-28E6BC05C2BF.png",Mega
-https://atres-live.atresmedia.com/0ecd9018bceaca603ff016ad3bc11975dc92d96a_ES_1786553365_1786582105/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Mega" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/07/03/556E370A-25B8-445E-AFDE-EF3AF9F4330C.png",Mega
+https://atres-live.atresmedia.com/bea1f64aa54fed8a9241f4a55c65afb618f7831e_ES_1786568634_1786597374/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Mentes Inquietas" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/07/25/B47E6413-3DFB-4E1A-824D-5C839313C08D.png",Mentes Inquietas
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Mentes Inquietas" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/07/03/3A1855C7-28EA-4E7D-A9C4-4F8C1023B871.png",Mentes Inquietas
 https://fast-channels.atresmedia.com/6d1b3b17581a4d22410c7738c9afcb7ef976afd4/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Multicine" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2026/05/19/92448778-BBB1-4848-9490-0E68029DC9E6.png",Multicine
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Multicine",Multicine
 https://fast-channels.atresmedia.com/801bbd0e5c58b38fa7e9cbaa1ef263ae94af80b7/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Neox" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/F462CCFC-FFFC-490D-BBB2-604A94D5F099.png",Neox
-https://atres-live.atresmedia.com/1f0e1992d515ab394acd9bed309f8061c2841819_ES_1786553364_1786582104/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Neox" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/D722565D-64E3-4F1C-BD38-44C276196C60.png",Neox
+https://atres-live.atresmedia.com/ce2f8c5dc32bfa2faf0ccb71ed5f6d445d7e0010_ES_1786568634_1786597374/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Nova" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2026/01/20/7AE3A984-C0C7-4609-B36C-19B531296A5B.png",Nova
-https://atres-live.atresmedia.com/025d0b0c32545aa055f7b41fa7118e9d0257829c_ES_1786553364_1786582104/hlsts/live/nova_usp/nova_usp.isml/playlist.m3u8
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Nova" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/28/C8FB4D73-D93C-4D65-B16C-6FC03E98897D.png",Nova
+https://atres-live.atresmedia.com/d3d04ac6e5150698b74870744f0c725735ee0225_ES_1786568634_1786597374/hlsts/live/nova_usp/nova_usp.isml/playlist.m3u8
