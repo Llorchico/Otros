@@ -1,107 +1,185 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/946c2426-1223-4ea7-8d20-faf9a34ec390/2a5111d4b3ed99a779416b8c7b95307d" group-title="TV", iNews
-https://allcutv.rctiplus.id/inews2023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/8c6089ae-a380-4fc5-95bb-81bb61c3be01/025431ff3648685040cc7139989f9002" group-title="Podcast", 444 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ae16aba4-69a9-4681-bb38-0cb43a4a193f/82c99e1cf72c58f7b7d0498865b4836e" group-title="Sports", FITE 24/7
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-RAD/263.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/481d1284-e61a-4d4a-afab-dfc320c69858/8f259268da58ea65860f948fc666eee5" group-title="Film", DANO Network
 https://b8071d69192becf3b511097019f87bcf.s7c03u.channel-assembly.mediatailor.us-east-2.amazonaws.com/v1/channel/DNTV2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/f2580ef35b38bd2fcc628f4a997c717a" group-title="Entertainment", XITE ROCK X METAL
+https://amg01243-amg01243c21-littlestar-us-8822.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xiterockxmetal-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ace95436-72a3-4057-a01d-f55e2be54ee9/5054dc60ae02208c0532480cb0df4261" group-title="Podcast", 407 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/a9971332-d526-4ba0-aaf4-c8daa38b6c12/1e182a124a1adfb5e85281f75f5fee14" group-title="Podcast", 420 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/96957759-0710-4253-a8b6-846075c5ddc4/75c6f0b8faf8c973d56a675517e39086.png" group-title="Entertainment", Popstar! TV
+https://linear-10.frequency.stream/dist/rad/10/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/46cbd31e-9eae-48c4-bf91-dec4f144b793/2a9beaa069738bb18a35367f3b9f1935.jpg" group-title="Entertainment", AfrolandTV
+https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=littlstar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/4be40b67-4d06-4b7e-bfab-7f25e87e4450/385330cee260acc80f12901fd45ccd44" group-title="Podcast", 435 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/a8e780e7-b580-44be-a362-410d76f76ff3/5610e0ef00587e3554d302a3bedc7760" group-title="Film", 373 MGM+
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/6162aaa8dd2fe70bb18fc950e68f132c.jpg" group-title="Sports", NHRA TV
+https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/172db14d-a658-4c04-9f48-247615d0d2c0/f2af1ce00185992901bbcd1ec907ecd6" group-title="Podcast", 402 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/f526311d-70c4-47bd-ae21-f229e6aebeca/12df8de9443a7ec9629345f2ee64e8f3" group-title="Podcast", 438 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/adef7e4e-e342-4323-8bd4-aa0fc0062237/c49df25e599336b0717937ce38b9035e" group-title="Film", 156 SPXWS
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/7590388ae4e24bdeafae65e13a10d2db" group-title="Entertainment", XITE 60S 70S GROOVE
+https://amg01243-amg01243c16-littlestar-us-8832.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xite60sn70sgroove-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/04345744-845c-44ec-ba87-10a0ec0fc04a/206275602ddfe1b44f790358841fb6c5" group-title="Podcast", 430 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/5f3b6dad-56e9-4896-a4ee-c84162e2d352/eeacdb041f5377ae094fd18ed5a8c668" group-title="Podcast", 415 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/e505b942-cf30-4d73-a0b7-543ef4e57563/aa99b83c451193fad9a1b50fa868d6e3" group-title="Podcast", 412 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/946c2426-1223-4ea7-8d20-faf9a34ec390/2a5111d4b3ed99a779416b8c7b95307d" group-title="TV", iNews
+https://allcutv.rctiplus.id/inews2023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1878ef45-0e14-4566-b442-c431745287c0/f47439245b194052a44ce7481140606e" group-title="History", 176 MILH
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/75ce6aec-a22c-4f88-a579-7ad8caf76143/e56ed9ecaad4e865a899689461bbdb31" group-title="Podcast", 408 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/19202092-1d1c-45e1-9120-3ec39eceda86/b1cad4c8b818d95806a304c55bc1be8c" group-title="Podcast", 441 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/58a4c506-fe3c-47bc-9004-2d931eb89b3f/c8d1c08bf3483f336abff93c714b7a71" group-title="Entertainment", Hi Drama
+https://global2.cgtn.cicc.media.caton.cloud/master/miji-cgtn-hidrama.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/24a40aa6-2701-41b2-b275-122f12c22b10/39cd1414eba94873ed333d72b0278608" group-title="Podcast", 446 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/421b6f65-ca43-4ef3-ac9f-025a8f9e3c2b/a4d65f19765841cdf559ca15786635d3" group-title="Podcast", 411 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/4f792411-a8dc-4532-8f7e-c8fdc79f8ac4/ea82130ea4183304179a9bb4d940e5e8" group-title="Podcast", 427 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/d1721bf8c5b9483c32b533e14d3c0f6e.png" group-title="Sports", Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/c2ee0caf-19e2-4929-9a0b-af4b071fc5b8/33e78824c58200179c79fd071742b1cb" group-title="Podcast", 428 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/9bf94a73-23b1-4677-b050-60c8eb1f6088/e73343d000f7de2a4f1bcfaa0ad65857" group-title="Podcast", 419 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/cb6de6ae-10a9-4d22-bce4-c6130be72eb7/6790332f447f2e5fca3609359dba7f3c" group-title="Podcast", 405 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/4be04624-bcf3-4aee-9561-4dd0579f0d54/31dd1ffe9d03085f96d6457be577ba62" group-title="Podcast", 440 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/6bd925ad-6be7-47b4-beca-d0ce4384591c/5a90478e8a6e09e0d310e3bf5d53e6ca" group-title="Podcast", 418 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ad987a51-1720-42a5-a910-14ae251f73ad/1976e1cb4ca8d4790f701dcb1950447e" group-title="Music", streamforce 360
+https://stmv3.tropicalmoonmedia.com/dreamediatv/dreamediatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/c7a95ba0-5b4c-4bb1-a131-d20f92912cec/04688d6d9e0e0ff0e7e2551a4b6a0520" group-title="Podcast", 448 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/dd5537187aecd50ba7a0184fa16d948e" group-title="Sports", Drag Racing
+https://www.youtube.com/watch?v=_Z7LM8TJ66Y
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ab93881c-53a3-4ef7-80f9-703d505f4fdf/445e491475a6cdca312f2a554e7c0578" group-title="Podcast", 403 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/315679e5-7f99-4217-af1f-92746f0b698b/2ae3c24f403a0cedcc080ad6d94ca7fb" group-title="Podcast", 442 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/d8d08080-f815-4930-8272-a7b722d1f284/fb0a37bacd451cd27251351ff156b741" group-title="Podcast", 424 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/960bff75-0599-422c-bb5c-2dfa852146eb/860b11f293dffaf03977bfb593665903" group-title="Podcast", 447 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/be59cf084bef1890eb5b675e50e8825e.png" group-title="Lifestyle & Fashion", GoTraveler
+https://amg09501-amg09501c1-littlestar-us-2405.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&consent=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&coppa=0&app_version=REPLACEME&schain=REPLACEME&gender=&ifa_type=REPLACEME&app_category=REPLACEME&min_dur=REPLACEME&min_bitrate=REPLACEME&custom_5=REPLACEME&custom_6=REPLACEME&custom_7=REPLACEME&custom_8=REPLACEME
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/b0f94828-d010-42c8-bf76-607724a64a67/060b4e20925deb6394c5558194120567" group-title="Podcast", 436 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/585a6a35-4e01-4539-9af8-81c89408cb22/dbd76bc8cf1cc20c229e9b9331f8a30b" group-title="Podcast", 406 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/f5064d58-fe42-4eaa-b742-c7946e27915a/20075b5ba30ef9043a2779f23ff85c61" group-title="TV", STV
+https://vodcdn.bamboo-cloud.com/livehls/6a81edf1063044437202e65c/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/543c1eba-1401-4b7b-9a1d-1fd8d104b353/5d02c1378a05ee2526e0309209a933f1" group-title="Podcast", 434 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/e491f173-3d29-45be-860f-a0d45b34e428/68a5bddcd020c0449a8922a239e54266" group-title="Entertainment", Channel Fight Masterclass
+https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-RAD/266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/f1b7585e-e6f5-436b-9e8d-69edb64c18a6/e9bedd10ca9cb3b0f75083d26cfa7948" group-title="Podcast", 404 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/de001d36-1ee0-41e8-b4ad-90c70271d9dc/a4280c670d705ba7e0bcd8b11460eadb" group-title="Podcast", 433 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/6b2844e0-97ed-4184-a083-10b1df3a7036/e538d6a43ebca72a754deb38e88c715f" group-title="Podcast", 445 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/47435057-609d-445b-8d88-90bec38c05d6/609bc38397e540fbaeec288b0b800a83" group-title="Podcast", 426 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/e5384294-5f4b-44f5-81d1-7e2fbe53eeab/61acfbb97dbd8218a78501586a2cf0a3" group-title="Podcast", 425 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/5e6ee4d9-8844-4527-9a63-1fc43bdb4065/23ca971ada100ef9ddd07d5678706211" group-title="Podcast", 422 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/80fdd632-fce3-4491-8426-f1e3a45b5c8f/4a368918a2b666d035e71a6eedcb23a8" group-title="Podcast", 410 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/77687341-e40b-4df4-a424-985b0e5d89c9/07db45e5fdf32d602b279740a0e99757" group-title="Podcast", 449 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/165ed695-5c90-4be1-b82b-e829ca7e97a4/4556b87e31af82ea3b8e1674e66ca3e2" group-title="Podcast", 401 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/0288e6a8cc7892af4efe7fd9f0c32eb7" group-title="Health & Fitness", OmStars TV
+https://ddjtw8864o7z6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-Dooya-OMSTARS/281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/66e29dfd-fdd0-4867-83ee-6faafd5b5783/e651ba9ce698f6408c3b681fa6c460ac" group-title="Documentary", Hi Life
+https://global2.cgtn.cicc.media.caton.cloud/master/miji-cgtn-hilife.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/cdfffeaa-79c4-49ef-b161-036df8b6de07/8801a72368c8736f7588080497a86290" group-title="Entertainment", S Free!
 https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/e55f313e-dddb-48e8-b89e-a42759ce7a43/35e0e759808dbd78994886b19cb81969" group-title="Film", 376 MGMMR
 https://rad.live/live-tv/?s=s-free-MQeHk7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/95677920-cef8-4536-bc99-1d3d2f8f6d89/ae804e3243757efd21a91a6ba74db281" group-title="Kids", S Premium!
-https://vodcdn.bamboo-cloud.com/livehls/68d0876e06304461862415b2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/38e46203-c9a3-4f83-92b6-27326e16339a/02872fa1db48e116c5ab835ebac93b5d" group-title="Film", 374 MGMHT
-https://rad.live/live-tv/?s=s-free-MQeHk7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/f5064d58-fe42-4eaa-b742-c7946e27915a/20075b5ba30ef9043a2779f23ff85c61" group-title="TV", STV
-https://vodcdn.bamboo-cloud.com/livehls/6a81edf1063044437202e65c/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/d5ddd69d18b4ce315cf218f497141276" group-title="Education", XITE CELEBRATES
-https://amg01243-amg01243c1-littlestar-us-8826.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitecelebrates-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/2ef18ba2233716ef60ec60406f09ddc1.png" group-title="Drama", Revry Premium
-https://linear-5.frequency.stream/dist/noads-rad/5/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ea3d0c5d-3f15-4ea9-8f71-06f6cd603568/dd22e6f654760d35360d50a85fd94a62.jpg" group-title="Entertainment", AWE Plus
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=919&live=1&avod=1&app_bundle=[APP_BUNDLE]&did=[DID]&app_domain=[APP_DOMAIN]&app_name=[APP_NAME]&app_store_url=[ENCODED_APP_STORE_URL]&player_height=1080&player_width=1920&content_cat=IAB1-7&content_channel=AWE%20Plus&content_genre=Lifestyle&content_language=en&content_network=AWE%20Plus&content_prodqual=1&content_producer=AWE&consent=[CONSENT]&device_type=CTV&gdpr=1&ssai_enabled=1&ssai_vendor=publica&coppa=[COPPA]
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/17a0c92dbadc95fd6b9c52274f12ac95" group-title="Entertainment", XITE RAP GAME
-https://amg01243-amg01243c8-littlestar-us-8829.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xiterapgame-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ca29c91b-aedd-4417-aede-20b249d675ce/b08ce53a12abfe73a416179a6d583367" group-title="Documentary", Radio Labrar TV
-https://183.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/b373f306ef980ec0607392b7cff9492c" group-title="Entertainment", XITE JUST CHILL
-https://amg01243-amg01243c9-littlestar-us-8825.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitejustchill-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ad987a51-1720-42a5-a910-14ae251f73ad/1976e1cb4ca8d4790f701dcb1950447e" group-title="Music", streamforce 360
-https://stmv3.tropicalmoonmedia.com/dreamediatv/dreamediatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/1b09c24c663a979a47201bfc78be11a2.png" group-title="Gaming", SKWAD
-https://api-ott.sqadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346&partner=littlstar
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/e491f173-3d29-45be-860f-a0d45b34e428/68a5bddcd020c0449a8922a239e54266" group-title="Entertainment", Channel Fight Masterclass
-https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-RAD/266.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/7a2b5ba4efe166b39b4127f5cdb79fe8" group-title="Entertainment", XITE 80S FLASHBACK
-https://amg01243-amg01243c2-littlestar-us-8752.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xite80sflashback-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/46cbd31e-9eae-48c4-bf91-dec4f144b793/2a9beaa069738bb18a35367f3b9f1935.jpg" group-title="Entertainment", AfrolandTV
-https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=littlstar
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/5a7d281f90f3e1814e14ea48df7b43e0" group-title="TV", GTV
-https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/71a3ce14-bba2-45eb-8bd8-08a9866e3abb/77109e77b5e5dddf85b880373d1ce83e.png" group-title="Sports", Lacrosse Sports Network
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/f7d1b4ee-34de-4f9a-9417-21f55e115433/e6693c190d0f849587e3828684be0cb6" group-title="Documentary", TV Sul Capixaba
-https://stream-247788.castr.net/68ad1a7c724a6928f050ebba/live_c5788f40839e11f1813a196cc11f122b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/8359fc05-afb8-43a1-8cf5-a321cd5b66df/0288e6a8cc7892af4efe7fd9f0c32eb7" group-title="Health & Fitness", OmStars TV
-https://ddjtw8864o7z6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RAD-Dooya-OMSTARS/281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/7590388ae4e24bdeafae65e13a10d2db" group-title="Entertainment", XITE 60S 70S GROOVE
-https://amg01243-amg01243c16-littlestar-us-8832.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xite60sn70sgroove-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1a4315fa-f559-4c5e-b755-4e1aefa0749d/d1721bf8c5b9483c32b533e14d3c0f6e.png" group-title="Sports", Billiard TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/96957759-0710-4253-a8b6-846075c5ddc4/75c6f0b8faf8c973d56a675517e39086.png" group-title="Entertainment", Popstar! TV
-https://linear-10.frequency.stream/dist/rad/10/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ae16aba4-69a9-4681-bb38-0cb43a4a193f/82c99e1cf72c58f7b7d0498865b4836e" group-title="Sports", FITE 24/7
-https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-RAD/263.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/7a72465bafeb3727ee15821eb3cbfd67" group-title="Music", XITE Hits
-https://amg01243-amg01243c10-littlestar-us-8643.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitehitsus-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/01a5923cbbbb4f9011be561c1ad013d9" group-title="Education", XITE REGGAE VIBES
-https://amg01243-amg01243c26-littlestar-us-8830.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitereggaevibes-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/66e29dfd-fdd0-4867-83ee-6faafd5b5783/e651ba9ce698f6408c3b681fa6c460ac" group-title="Documentary", Hi Life
-https://global2.cgtn.cicc.media.caton.cloud/master/miji-cgtn-hilife.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/4fe8133b16cdf488e1baf642e34956d9" group-title="Entertainment", XITE 90S THROWBACK
-https://amg01243-amg01243c3-littlestar-us-8756.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xite90sthrowback-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/8356592aa0e3fe47e40cd66ea09320c5" group-title="Entertainment", XITE R&B CLASSIC JAMS
-https://amg01243-amg01243c6-littlestar-us-8824.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xiternbclassicjams-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/d92d7583d596c0bc08d90b8953e7e2e9" group-title="Sports", Frogs Today TV
-https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-east-2.amazonaws.com/v1/channel/RadTCUStream/output.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/a32fe8f5468244c15f5788d047af9ca4" group-title="Entertainment", XITE SIEMPRE LATINO
-https://amg01243-amg01243c14-littlestar-us-8808.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitesiemprelatino-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/b5cab9b9176b438217267e4608ee6ed8" group-title="Entertainment", XITE CHRISTIAN HITS
-https://amg01243-amg01243c25-littlestar-us-8831.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitechristianhits-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/a8e780e7-b580-44be-a362-410d76f76ff3/5610e0ef00587e3554d302a3bedc7760" group-title="Film", 373 MGM+
-https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/053ec85e-6dd6-4834-982d-f6fc8ecf9f76/3e946ef3f0155311ca77e90fe04d0d1e" group-title="Kids", S Tom Sings
+https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/fff9d701-e386-4541-8616-74baf483c74c/b9d0249f7706932d388e8fe8329fab91" group-title="Entertainment", playout.video
+https://cdn.playout.video/l/cmtmon47o08cm01us9c2y4kgb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/be8fa40f-f5da-41a7-9173-4df6af7bfc61/4020cb0fac781dd6b146fbc054018fb9" group-title="Education", MyNeighborhood National
 https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-east-2.amazonaws.com/v1/channel/rad-linear-lrn-12core-media-content-s-13033fcf8712/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/3e7f2a8fc77cb64f514747f8bbaf8134" group-title="Education", XITE HIP-HOP EVOLUTION
-https://amg01243-amg01243c7-littlestar-us-8827.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitehiphopevolution-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/5780727185dbdc78dcf9bd2fb636f2b0" group-title="Entertainment", XITE Classic Country
-https://amg01243-amg01243c5-littlestar-us-8725.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xiteclassiccountry-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/5cbf37bf9b4cd3d402b51064dcf2d51f" group-title="Entertainment", XITE R&B FEELS
-https://amg01243-amg01243c13-littlestar-us-8828.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xiternbfeels-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/b747098c70bc0f7606e3fd9bff0a32ad" group-title="Entertainment", XITE GOSPEL
-https://amg01243-amg01243c35-littlestar-us-9163.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitegospel-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/5df925d2-57ba-4183-82c9-c0a7b3c6375c/06007ef7c10ca8e6bbf4422859da17ca.jpg" group-title="Drama", Revry QueerTV 24/7
-https://linear-5.frequency.stream/dist/rad/5/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/aa5c7e27-962a-4021-a476-efecffcde88d/31fedf7ad6850a101fe54bafd08a6de7" group-title="Entertainment", Hi Vida
-https://global2.cgtn.cicc.media.caton.cloud/master/miji-cgtn-hivida.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/7b1650f528b6688c76c595b837126c47" group-title="Entertainment", XITE NUEVO LATINO
-https://amg01243-amg01243c12-littlestar-us-8814.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitenuevolatino-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/5d1a70c6-ec52-4ec7-afbe-cb57f7777017/373ae20645f6324f22eebe0a4c237fe7" group-title="Podcast", 429 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/5a7d281f90f3e1814e14ea48df7b43e0" group-title="TV", GTV
+https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1b4784c6-5aff-4f88-9187-16632cfcca35/dc1a45bc8e72c6d388aeb4326b9a86e1" group-title="Podcast", 431 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/66671bb8-ad06-4615-a632-c74d1a7e5be9/36f43039020cfe6c7563a65cffdd9411" group-title="Film", 375 MGMDR
 https://rad.live/live-tv/?s=s-free-MQeHk7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/adef7e4e-e342-4323-8bd4-aa0fc0062237/c49df25e599336b0717937ce38b9035e" group-title="Film", 156 SPXWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/7d5769da-c26f-454e-b09f-847a1033f1af/1d3be05506772337d917df4cc518e4fa" group-title="Podcast", 443 MC
 https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/5780727185dbdc78dcf9bd2fb636f2b0" group-title="Entertainment", XITE Classic Country
+https://amg01243-amg01243c5-littlestar-us-8725.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xiteclassiccountry-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/fff2a7c1f63f6d631fd6f4255b316dc3" group-title="Entertainment", XITE COUNTRY TODAY
 https://amg01243-amg01243c4-littlestar-us-8722.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xitecountrytoday-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/be59cf084bef1890eb5b675e50e8825e.png" group-title="Lifestyle & Fashion", GoTraveler
-https://amg09501-amg09501c1-littlestar-us-2405.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&consent=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&coppa=0&app_version=REPLACEME&schain=REPLACEME&gender=&ifa_type=REPLACEME&app_category=REPLACEME&min_dur=REPLACEME&min_bitrate=REPLACEME&custom_5=REPLACEME&custom_6=REPLACEME&custom_7=REPLACEME&custom_8=REPLACEME
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/9b2b9dfa-0592-4de4-b503-d6d8c4f507e5/6162aaa8dd2fe70bb18fc950e68f132c.jpg" group-title="Sports", NHRA TV
-https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=littlstar
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/dd5537187aecd50ba7a0184fa16d948e" group-title="Sports", Drag Racing
-https://www.youtube.com/watch?v=_Z7LM8TJ66Y
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/58a4c506-fe3c-47bc-9004-2d931eb89b3f/c8d1c08bf3483f336abff93c714b7a71" group-title="Entertainment", Hi Drama
-https://global2.cgtn.cicc.media.caton.cloud/master/miji-cgtn-hidrama.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/5683f08c-58d2-4c5b-9725-f944ce5f7039/be5a4eafdeb27d2325b1aab361772205" group-title="Podcast", 421 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/d92d7583d596c0bc08d90b8953e7e2e9" group-title="Sports", Frogs Today TV
+https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-east-2.amazonaws.com/v1/channel/RadTCUStream/output.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/2ca97cd9-8153-4899-8249-a30e36c74a45/2bb66a4f8089fcce74aba0534620778f" group-title="Podcast", 409 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ea3d0c5d-3f15-4ea9-8f71-06f6cd603568/dd22e6f654760d35360d50a85fd94a62.jpg" group-title="Entertainment", AWE Plus
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=919&live=1&avod=1&app_bundle=[APP_BUNDLE]&did=[DID]&app_domain=[APP_DOMAIN]&app_name=[APP_NAME]&app_store_url=[ENCODED_APP_STORE_URL]&player_height=1080&player_width=1920&content_cat=IAB1-7&content_channel=AWE%20Plus&content_genre=Lifestyle&content_language=en&content_network=AWE%20Plus&content_prodqual=1&content_producer=AWE&consent=[CONSENT]&device_type=CTV&gdpr=1&ssai_enabled=1&ssai_vendor=publica&coppa=[COPPA]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/d6a32782-faf7-433b-ab9b-007daab28213/0e86cd34864269837a4ca68c9c16cf4e" group-title="Podcast", 423 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/6316b6f9-bce2-4343-9b06-9e1675a9e10a/ed2b7c861e2a16d005af7d74829a7d53" group-title="Podcast", 416 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/1b09c24c663a979a47201bfc78be11a2.png" group-title="Gaming", SKWAD
+https://api-ott.sqadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346&partner=littlstar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/5dc94597-1700-4670-834c-702029660e32/12ee016a8b68cbbb289f0ffd07850cb2" group-title="Podcast", 414 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/aa5c7e27-962a-4021-a476-efecffcde88d/31fedf7ad6850a101fe54bafd08a6de7" group-title="Entertainment", Hi Vida
+https://global2.cgtn.cicc.media.caton.cloud/master/miji-cgtn-hivida.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/100e1020-aa14-4d58-8eba-8876753fc1eb/65088fd2bc912ab2620a89738f63d518" group-title="Podcast", 417 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/38e46203-c9a3-4f83-92b6-27326e16339a/02872fa1db48e116c5ab835ebac93b5d" group-title="Film", 374 MGMHT
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/c4f815a1-8289-40b8-8520-139fb5fa2b07/c7b610f78545ab55f109794e42f1ee56" group-title="Podcast", 432 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ca29c91b-aedd-4417-aede-20b249d675ce/b08ce53a12abfe73a416179a6d583367" group-title="Documentary", Radio Labrar TV
+https://183.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/0cb3ca6a-3f79-4291-9c08-90ad54a21f99/1c7fa265c755b4329afff7994551b371" group-title="Podcast", 450 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/d7050980-b2e4-484c-8713-58828759ab27/2ef18ba2233716ef60ec60406f09ddc1.png" group-title="Drama", Revry Premium
+https://linear-5.frequency.stream/dist/noads-rad/5/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/da71bfd4-6fca-45a0-8d9f-1bfd165a3079/beced3c98d183e2c3f71b9b88f445e04" group-title="Podcast", 413 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/71a3ce14-bba2-45eb-8bd8-08a9866e3abb/77109e77b5e5dddf85b880373d1ce83e.png" group-title="Sports", Lacrosse Sports Network
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/458f6253-a7c2-472c-a9fc-da94dda9a49e/4bef385fc56b96b0f36e01e3a56c00e9" group-title="Entertainment", Alabbassia TV قناة العباسية الحسينية
+https://stream.alabbassia.com/live/alabbassia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/f7d1b4ee-34de-4f9a-9417-21f55e115433/e6693c190d0f849587e3828684be0cb6" group-title="Documentary", TV Sul Capixaba
+https://stream.tvmarataizes.com.br/tv/tvmarataizes/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/45545aff-0d47-44fc-9894-1d329b731adf/700b8fba246fbd11d56143e56eb9de60.jpg" group-title="TV", OAN Plus
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=918&live=1&avod=1&app_bundle=[APP_BUNDLE]&did=[DID]&app_domain=[APP_DOMAIN]&app_name=[APP_NAME]&app_store_url=[ENCODED_APP_STORE_URL]&player_height=1080&player_width=1920&content_cat=IAB11-5&content_channel=OAN%20Plus&content_genre=news&content_language=en&content_network=OAN%20Plus&content_prodqual=1&content_producer=OAN&consent=[CONSENT]&device_type=CTV&gdpr=1&ssai_enabled=1&ssai_vendor=publica&coppa=[COPPA]
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/f2580ef35b38bd2fcc628f4a997c717a" group-title="Entertainment", XITE ROCK X METAL
-https://amg01243-amg01243c21-littlestar-us-8822.playouts.now.amagi.tv/playlist/amg01243-xitenetworksinternationalfast-xiterockxmetal-littlestarus/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_bundle={APPBUNDLE}&app_name={APPNAME}&app_store_url={APPSTOREURL}&inv_partner_domain={INVPARTNERDOMAIN}&ifa_type={IFATYPE}&us_privacy={USPRIVACY}&coppa={COPPA}&lmt={LMT}&gpp={GPP}&gpp_sid={GPPSID}
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/1878ef45-0e14-4566-b442-c431745287c0/f47439245b194052a44ce7481140606e" group-title="History", 176 MILH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/95677920-cef8-4536-bc99-1d3d2f8f6d89/ae804e3243757efd21a91a6ba74db281" group-title="Kids", S Premium!
+https://vodcdn.bamboo-cloud.com/livehls/68d0876e06304461862415b2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/9ca38407-eae6-4ec0-8bdf-eccd761c1e63/584b0c4bac7125413aa5609fc98c996d" group-title="Podcast", 439 MC
+https://rad.live/live-tv/?s=s-free-MQeHk7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/5df925d2-57ba-4183-82c9-c0a7b3c6375c/06007ef7c10ca8e6bbf4422859da17ca.jpg" group-title="Drama", Revry QueerTV 24/7
+https://linear-5.frequency.stream/dist/rad/5/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/3f84d945-9f68-4fe6-b21f-4e68ea826a9e/8cf48764545d3f129fd28346c8770be4" group-title="Podcast", 437 MC
 https://rad.live/live-tv/?s=s-free-MQeHk7
