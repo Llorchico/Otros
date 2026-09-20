@@ -1,28 +1,44 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1807" tvg-name="Solelive TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/43/43451/1807-294x165-FFFFFF.jpg" group-title="Entretenimiento",Solelive TV
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/1807/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=1807&stime=1788184221&etime=1788270621&token=0ceddc63d1d49003f87e1&p=livecdn
-#EXTINF:-1 tvg-id="4070" tvg-name="Salsa on 2 TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/234/234088/4070-294x165-FFFFFF.jpg" group-title="Música",Salsa on 2 TV
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/4070/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=4070&stime=1788184232&etime=1788270632&token=020dd02b5c7008ac02bb4
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/1807/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=1807&stime=1789827446&etime=1789913846&token=091228658e1bf76598b09&p=livecdn
 #EXTINF:-1 tvg-id="3747" tvg-name="Viva La Musica TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/222/222191/3747-294x165-FFFFFF.jpg" group-title="Música",Viva La Musica TV
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3747/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=3747&stime=1788184247&etime=1788270647&token=07f88a32a7a254bcdc39c&p=livecdn
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3747/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=3747&stime=1789827456&etime=1789913856&token=06295a8b7f0fcbbb05756&p=livecdn
 #EXTINF:-1 tvg-id="2526" tvg-name="ACTION" tvg-logo="https://www.vivalivetv.com/public/files/shows/143/143815/2526-294x165-FFFFFF.jpg" group-title="Entretenimiento",ACTION
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2526/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=2526&stime=1788184258&etime=1788270658&token=0560d3f3ad6e99d1fc8b8&p=livecdn
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2526/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=2526&stime=1789827466&etime=1789913866&token=0f46a551eefdb8ad3e418&p=livecdn
+#EXTINF:-1 tvg-id="1609" tvg-name="Miami TV Viva" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg" group-title="Entretenimiento",Miami TV Viva
+https://43d129f5f27a459c9905c5e874866316.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-MiamiTV/playlist.m3u8
 #EXTINF:-1 tvg-id="3814" tvg-name="Miami TV Food" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3814-294x165-FFFFFF.jpg" group-title="Cocina",Miami TV Food
 https://12a58c07c7864cb1aacd48273afa8149.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-foods/playlist.m3u8
 #EXTINF:-1 tvg-id="3338" tvg-name="Discover Paradise Network" tvg-logo="https://www.vivalivetv.com/public/files/shows/201/201607/3338-294x165-FFFFFF.jpg" group-title="Viajes y Naturaleza",Discover Paradise Network
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3338/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3338&stime=1788184327&etime=1788270727&token=0a825da80febc3b3cf76c
-#EXTINF:-1 tvg-id="2548" tvg-name="AWE Plus" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2548-294x165-FFFFFF.jpg" group-title="Entretenimiento",AWE Plus
-https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3338/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3338&stime=1789827545&etime=1789913945&token=0f76e694721ff66c9e207
+#EXTINF:-1 tvg-id="3813" tvg-name="Silja Live" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3813-294x165-FFFFFF.jpg" group-title="Entretenimiento",Silja Live
+https://59ec5453559f0.streamlock.net/seljalive/smil:VIVALIVE/playlist.m3u8
 #EXTINF:-1 tvg-id="3471" tvg-name="MiamiTV Fashion" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3471-294x165-FFFFFF.jpg" group-title="Entretenimiento",MiamiTV Fashion
 https://c3555fbfd6f24b7984b6f0e24540353e.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Fashion/playlist.m3u8
+#EXTINF:-1 tvg-id="633" tvg-name="MiamiTV Latino" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/633-294x165-FFFFFF.jpg" group-title="Entretenimiento",MiamiTV Latino
+https://77f7ee394fe8493493685681bfe14df3.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Latino/playlist.m3u8
+#EXTINF:-1 tvg-id="3467" tvg-name="MiamiTV Music" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3467-294x165-FFFFFF.jpg" group-title="Música",MiamiTV Music
+https://740fe58b10e44f379b3d9a540bb3f94d.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Models/playlist.m3u8
+#EXTINF:-1 tvg-id="3466" tvg-name="MiamiTV Gold" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3466-294x165-FFFFFF.jpg" group-title="Entretenimiento",MiamiTV Gold
+https://55348122f96b4f1fb500d890d9e81735.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Gold/playlist.m3u8
+#EXTINF:-1 tvg-id="3468" tvg-name="MiamiTV Mystery" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3468-294x165-FFFFFF.jpg" group-title="Entretenimiento",MiamiTV Mystery
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12998&live=1&avod=1&hls_marker=1&pod_duration=120&position=preroll&app_bundle=VIVALIVE&app_name=VIVALIVE&min_ad_duration=6&max_ad_duration=120
 #EXTINF:-1 tvg-id="2249" tvg-name="Cuaima Team TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/122/122379/2249-294x165-FFFFFF.jpg" group-title="Entretenimiento",Cuaima Team TV
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[TIMESTAMP_MACRO]&AV_WIDTH=[WIDTH_MACRO]&AV_HEIGHT=[HEIGHT_MACRO]&AV_APPNAME=[APPNAME_MACRO]&AV_APPSTOREURL=[APPSTOREURL_MACRO]&AV_APPPKGNAME=[BUNDLE_ID_MACRO]&AV_IDFA=[IDFA_MACRO]&AV_IFA_TYPE=[IFA_TYPE]&AV_LATITUDE=[LATITUDE_MACRO]&AV_LONGITUDE=[LONGITUDE_MACRO]&AV_CCPA=[CCPA_MACRO]&AV_GDPR=[GDPR_MACRO]&AV_CONSENT=[CONSENT_MACRO]&AV_CONTENT_URL=[CONTENT_URL]&AV_CONTENT_TITLE=[CONTENT_TITLE]&AV_CONTENT_EPISODE=[EPISODE]&AV_CONTENT_SERIES=[SERIES]&AV_CONTENT_SEASON=[SEASON]&AV_CONTENT_CAT=[CONTENT_CATEGORY]&AV_CONTENT_KEYWORDS=[KEYWORDS]&AV_CONTENT_NETWORK=[NETWORK]&AV_CONTENT_ID=[CONTENT_ID]&AV_CONTENT_CHANNEL=[CONTENT_CHANNEL]&AV_CONTENT_CONTEXT=[CONTENT_CONTEXT]&AV_CONTENT_GENERE=[GENERE]&AV_CONTENT_LENGTH=[LENGTH]&AV_CONTENT_LANGUAGE=[LANGUAGE]&AV_CONTENT_RATING=[RATING]&AVS_SSAIID=6a4cb444aa792bb1840baf04
+#EXTINF:-1 tvg-id="3520" tvg-name="EnergyTV Gold" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3520-294x165-FFFFFF.jpg" group-title="Entretenimiento",EnergyTV Gold
+https://59ec5453559f0.streamlock.net/energytvgold/smil:VIVALIVETV/playlist.m3u8
+#EXTINF:-1 tvg-id="3521" tvg-name="EnergyTV Health" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3521-294x165-FFFFFF.jpg" group-title="Salud",EnergyTV Health
+https://59ec5453559f0.streamlock.net/energytvhealth/smil:VIVALIVETV/playlist.m3u8
 #EXTINF:-1 tvg-id="3884" tvg-name="Supreme Master TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3884-294x165-FFFFFF.jpg" group-title="Religión",Supreme Master TV
 https://cf-lbs.suprememastertv.com/origin/720p/playlist.m3u8
+#EXTINF:-1 tvg-id="3484" tvg-name="Champion TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3484-294x165-FFFFFF.jpg" group-title="Entretenimiento",Champion TV
+https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8
 #EXTINF:-1 tvg-id="4064" tvg-name="Isla Canarias television" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4064-294x165-FFFFFF.jpg" group-title="Entretenimiento",Isla Canarias television
 https://cloud.fastchannel.es/mic/manifiest/hls/icatv_720p/icatv.m3u8
 #EXTINF:-1 tvg-id="3882" tvg-name="SOMOS NOTICIAS TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3882-294x165-FFFFFF.jpg" group-title="Noticias",SOMOS NOTICIAS TV
 https://somosnoticiasnetwork.com:3702/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="4084" tvg-name="NTV Television" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4084-294x165-FFFFFF.jpg" group-title="Entretenimiento",NTV Television
+https://edge.essastream.com/navarretetelevision/index.m3u8
 #EXTINF:-1 tvg-id="3255" tvg-name="MI TURNO TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3255-294x165-FFFFFF.jpg" group-title="Entretenimiento",MI TURNO TV
 https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 #EXTINF:-1 tvg-id="3922" tvg-name="RETRO X PLUS" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3922-294x165-FFFFFF.jpg" group-title="Música",RETRO X PLUS
@@ -31,12 +47,16 @@ https://lbgo.bozztv.com/ssh101/ssh101/retp/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="2341" tvg-name="Supercanal" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2341-294x165-FFFFFF.jpg" group-title="Entretenimiento",Supercanal
 https://cnn.hostlagarto.com/supercanalhd/index.m3u8
+#EXTINF:-1 tvg-id="3635" tvg-name="DM KidsTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3635-294x165-FFFFFF.jpg" group-title="Infantil",DM KidsTV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12967&live=1&avod=1&hls_marker=1&pod_duration=120&position=preroll&app_bundle=VIVALIVE&app_name=VIVALIVE&min_ad_duration=6&max_ad_duration=120
 #EXTINF:-1 tvg-id="3634" tvg-name="ENTERTAINMENT PLAY TERROR" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3634-294x165-FFFFFF.jpg" group-title="Entretenimiento",ENTERTAINMENT PLAY TERROR
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12966&live=1&avod=1&hls_marker=1&pod_duration=120&position=preroll&app_bundle=VIVALIVE&app_name=VIVALIVE&min_ad_duration=6&max_ad_duration=120
 #EXTINF:-1 tvg-id="4007" tvg-name="ENTERTAINMENT PLAY CLASSIC" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4007-294x165-FFFFFF.jpg" group-title="Entretenimiento",ENTERTAINMENT PLAY CLASSIC
 https://video02.logicahost.com.br/classic/classic/playlist.m3u8
+#EXTINF:-1 tvg-id="3333" tvg-name="Latinos TV NY" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3333-294x165-FFFFFF.jpg" group-title="Entretenimiento",Latinos TV NY
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 #EXTINF:-1 tvg-id="3816" tvg-name="LARIVISION TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3816-294x165-FFFFFF.jpg" group-title="Entretenimiento",LARIVISION TV
-https://cloud5.larivision.net/hls/live.m3u8
+https://live.larivision.net/livelan/live.m3u8
 #EXTINF:-1 tvg-id="3663" tvg-name="75 TV Bebeto" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3663-294x165-FFFFFF.jpg" group-title="Entretenimiento",75 TV Bebeto
 https://mlb.essastream.com:8081/bebetotelevision/index.m3u8
 #EXTINF:-1 tvg-id="1648" tvg-name="TELE CIBAO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1648-294x165-FFFFFF.jpg" group-title="Entretenimiento",TELE CIBAO
@@ -48,13 +68,11 @@ https://fox.hostlagarto.com:8081/ghtelevision/index.m3u8
 #EXTINF:-1 tvg-id="2405" tvg-name="Orbit TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2405-294x165-FFFFFF.jpg" group-title="Entretenimiento",Orbit TV
 https://cnn.hostlagarto.com/orbittv/index.m3u8
 #EXTINF:-1 tvg-id="3802" tvg-name="FEMENINA TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3802-294x165-FFFFFF.jpg" group-title="Entretenimiento",FEMENINA TV
-https://streamunoapp.com:3511/live/femeninatvlive.m3u8
+https://5790d294af2dc.streamlock.net/femeninatv/femeninatv/playlist.m3u8
 #EXTINF:-1 tvg-id="1662" tvg-name="Telecanal 12" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1662-294x165-FFFFFF.jpg" group-title="Entretenimiento",Telecanal 12
 https://mlb.essastream.com:8081/telecanal12/index.m3u8
 #EXTINF:-1 tvg-id="3242" tvg-name="TV HISPANIC" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3242-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV HISPANIC
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
-#EXTINF:-1 tvg-id="2872" tvg-name="Tu UNIVERSO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2872-294x165-FFFFFF.jpg" group-title="Entretenimiento",Tu UNIVERSO
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 tvg-id="3668" tvg-name="Canal 10 Costa Rica" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3668-294x165-FFFFFF.jpg" group-title="Entretenimiento",Canal 10 Costa Rica
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="1829" tvg-name="LUNA TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1829-294x165-FFFFFF.jpg" group-title="Entretenimiento",LUNA TV
@@ -73,24 +91,34 @@ https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/1
 https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/8.m3u8
 #EXTINF:-1 tvg-id="3823" tvg-name="Telemetro" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3823-294x165-FFFFFF.jpg" group-title="Entretenimiento",Telemetro
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
+#EXTINF:-1 tvg-id="3461" tvg-name="Punto TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3461-294x165-FFFFFF.jpg" group-title="Entretenimiento",Punto TV
+https://cdnfox.hostlagarto.com/puntotv/index.m3u8
 #EXTINF:-1 tvg-id="1412" tvg-name="Vallevision" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1412-294x165-FFFFFF.jpg" group-title="Entretenimiento",Vallevision
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-id="2142" tvg-name="CROM TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2142-294x165-FFFFFF.jpg" group-title="Entretenimiento",CROM TV
 https://fox.hostlagarto.com:8081/cromtv/index.m3u8
 #EXTINF:-1 tvg-id="1642" tvg-name="TV DEL ESTE" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1642-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV DEL ESTE
 https://mlb.essastream.com:8081/televisiondeleste/index.m3u8
+#EXTINF:-1 tvg-id="2195" tvg-name="TELESIGLO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-294x165-FFFFFF.jpg" group-title="Entretenimiento",TELESIGLO
+https://cnn.hostlagarto.com/telesiglo/index.m3u8
 #EXTINF:-1 tvg-id="1656" tvg-name="Bajo Techo" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1656-294x165-FFFFFF.jpg" group-title="Entretenimiento",Bajo Techo
 https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="3431" tvg-name="Super Digital TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3431-294x165-FFFFFF.jpg" group-title="Entretenimiento",Super Digital TV
+https://cdn.streamrd.cloud/live/ch_kb5qe1zr.m3u8
+#EXTINF:-1 tvg-id="3809" tvg-name="ONDA TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3809-294x165-FFFFFF.jpg" group-title="Entretenimiento",ONDA TV
+https://cnn.hostlagarto.com/ondatv/index.m3u8
 #EXTINF:-1 tvg-id="3354" tvg-name="ELIAS PIÑA TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3354-294x165-FFFFFF.jpg" group-title="Entretenimiento",ELIAS PIÑA TV
 https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-id="3298" tvg-name="TELE Clásica" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3298-294x165-FFFFFF.jpg" group-title="Entretenimiento",TELE Clásica
 https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
 #EXTINF:-1 tvg-id="1851" tvg-name="Cotubanama" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1851-294x165-FFFFFF.jpg" group-title="Entretenimiento",Cotubanama
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="3801" tvg-name="Oxi TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg" group-title="Entretenimiento",Oxi TV
-https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
+#EXTINF:-1 tvg-id="1817" tvg-name="Musavision" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1817-294x165-FFFFFF.jpg" group-title="Entretenimiento",Musavision
+https://cnn.hostlagarto.com/musavisiontv/index.m3u8
 #EXTINF:-1 tvg-id="3238" tvg-name="Tele Dominicana" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3238-294x165-FFFFFF.jpg" group-title="Entretenimiento",Tele Dominicana
 https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="4079" tvg-name="MAKRO DIGITAL TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4079-294x165-FFFFFF.jpg" group-title="Entretenimiento",MAKRO DIGITAL TV
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/vivalivetv/playlist.m3u8
 #EXTINF:-1 tvg-id="3265" tvg-name="FM COSMOS TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3265-294x165-FFFFFF.jpg" group-title="Entretenimiento",FM COSMOS TV
 https://canaletaplus.com:3922/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="3302" tvg-name="CHAMAME TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3302-294x165-FFFFFF.jpg" group-title="Entretenimiento",CHAMAME TV
@@ -113,12 +141,14 @@ https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
 #EXTINF:-1 tvg-id="3030" tvg-name="HAINA Vision" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3030-294x165-FFFFFF.jpg" group-title="Entretenimiento",HAINA Vision
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
+#EXTINF:-1 tvg-id="3386" tvg-name="La Reina TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3386-294x165-FFFFFF.jpg" group-title="Entretenimiento",La Reina TV
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="3821" tvg-name="La Descarga TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3821-294x165-FFFFFF.jpg" group-title="Entretenimiento",La Descarga TV
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 tvg-id="2986" tvg-name="Cibaeña TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2986-294x165-FFFFFF.jpg" group-title="Entretenimiento",Cibaeña TV
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 tvg-id="1645" tvg-name="TELE CANAL 28" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1645-294x165-FFFFFF.jpg" group-title="Entretenimiento",TELE CANAL 28
-https://mlb.essastream.com:8081/telecanal28/index.m3u8
+https://edge.essastream.com/telecanal28/index.m3u8
 #EXTINF:-1 tvg-id="3248" tvg-name="BOREAL TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3248-294x165-FFFFFF.jpg" group-title="Entretenimiento",BOREAL TV
 https://mlb.essastream.com:8081/borealtelevision/index.m3u8
 #EXTINF:-1 tvg-id="3656" tvg-name="TV DAJA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3656-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV DAJA
@@ -139,8 +169,6 @@ https://vdopanel.jlahozconsulting.com:3407/hybrid/play.m3u8
 https://fox.hostlagarto.com:8081/telenonisa43/index.m3u8
 #EXTINF:-1 tvg-id="4014" tvg-name="Telecanal 28" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4014-294x165-FFFFFF.jpg" group-title="Entretenimiento",Telecanal 28
 https://mlb.essastream.com:8081/telecanal28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="3445" tvg-name="Manaclar Television" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg" group-title="Entretenimiento",Manaclar Television
-https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 #EXTINF:-1 tvg-id="2192" tvg-name="HM TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2192-640x360-FFFFFF.jpg" group-title="Entretenimiento",HM TV
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 #EXTINF:-1 tvg-id="3906" tvg-name="CAOBA TV RADIO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg" group-title="Música",CAOBA TV RADIO
@@ -165,12 +193,12 @@ https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
 #EXTINF:-1 tvg-id="3926" tvg-name="FRATA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3926-294x165-FFFFFF.jpg" group-title="Entretenimiento",FRATA
 https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="1876" tvg-name="CNC Medellin" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1876-294x165-FFFFFF.jpg" group-title="Entretenimiento",CNC Medellin
-https://hvtraficonew.ddns.net/cncmedellinmagistv/index.m3u8
+#EXTINF:-1 tvg-id="3692" tvg-name="TELEPROYECTO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3692-294x165-FFFFFF.jpg" group-title="Entretenimiento",TELEPROYECTO
+https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
+#EXTINF:-1 tvg-id="3660" tvg-name="Santiago TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3660-294x165-FFFFFF.jpg" group-title="Entretenimiento",Santiago TV
+https://edge.essastream.com/telemilenio/index.m3u8
 #EXTINF:-1 tvg-id="2695" tvg-name="Vision Dorada" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2695-294x165-FFFFFF.jpg" group-title="Entretenimiento",Vision Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-id="3822" tvg-name="Tele Dajabon" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3822-294x165-FFFFFF.jpg" group-title="Entretenimiento",Tele Dajabon
-https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
 #EXTINF:-1 tvg-id="3827" tvg-name="SISTESUR 49" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3827-294x165-FFFFFF.jpg" group-title="Entretenimiento",SISTESUR 49
 https://5790d294af2dc.streamlock.net/SISTESUR/SISTESUR/playlist.m3u8
 #EXTINF:-1 tvg-id="2162" tvg-name="Antofagasta" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2162-294x165-FFFFFF.jpg" group-title="Entretenimiento",Antofagasta
@@ -179,6 +207,8 @@ https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
 https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="3864" tvg-name="ENTUNO TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3864-294x165-FFFFFF.jpg" group-title="Entretenimiento",ENTUNO TV
 https://soportedvb.click:3442/live/entunotvlive.m3u8
+#EXTINF:-1 tvg-id="3451" tvg-name="CENOVISION" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3451-294x165-FFFFFF.jpg" group-title="Entretenimiento",CENOVISION
+https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
 #EXTINF:-1 tvg-id="3506" tvg-name="GLOBAL TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3506-294x165-FFFFFF.jpg" group-title="Entretenimiento",GLOBAL TV
 https://vtm1.msinteractiva.com./globaltv/globaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="3770" tvg-name="Aguila TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3770-294x165-FFFFFF.jpg" group-title="Entretenimiento",Aguila TV
@@ -191,6 +221,8 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 https://video.udwn.net:19360/tvnovahd/tvnovahd.m3u8
 #EXTINF:-1 tvg-id="3586" tvg-name="Nueva Vision 14" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3586-294x165-FFFFFF.jpg" group-title="Entretenimiento",Nueva Vision 14
 https://pacific.direcnode.com:3562/live/nuevavisionlive.m3u8
+#EXTINF:-1 tvg-id="4041" tvg-name="PANC TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4041-294x165-FFFFFF.jpg" group-title="Entretenimiento",PANC TV
+https://panctv.ddns.net/hls/ar/live.m3u8
 #EXTINF:-1 tvg-id="1826" tvg-name="Teleuniverso" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1826-294x165-FFFFFF.jpg" group-title="Entretenimiento",Teleuniverso
 https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 #EXTINF:-1 tvg-id="2144" tvg-name="TELESANTODOMINGO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2144-294x165-FFFFFF.jpg" group-title="Entretenimiento",TELESANTODOMINGO
@@ -237,6 +269,8 @@ https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
 https://streaming.jarabacoatv.com/Jarabacoa_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="3738" tvg-name="Merla Vision" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3738-294x165-FFFFFF.jpg" group-title="Entretenimiento",Merla Vision
 https://soportedvb.click:3877/live/merlavisionlive.m3u8
+#EXTINF:-1 tvg-id="2472" tvg-name="GUAYMATE TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2472-294x165-FFFFFF.jpg" group-title="Entretenimiento",GUAYMATE TV
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="3885" tvg-name="VIDA TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3885-294x165-FFFFFF.jpg" group-title="Entretenimiento",VIDA TV
 https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="2982" tvg-name="Pula TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2982-294x165-FFFFFF.jpg" group-title="Entretenimiento",Pula TV
@@ -247,11 +281,13 @@ https://mlb.essastream.com:8081/citricotv/index.m3u8
 https://tv.rbti.tv.br/rbti1/index.m3u8
 #EXTINF:-1 tvg-id="4078" tvg-name="TUBACAST TV+" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4078-294x165-FFFFFF.jpg" group-title="Entretenimiento",TUBACAST TV+
 https://tv.rbti.tv.br/rbti4/index.m3u8
+#EXTINF:-1 tvg-id="4083" tvg-name="TV NOVA MT" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4083-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV NOVA MT
+https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/playlist.m3u8
 #EXTINF:-1 tvg-id="4080" tvg-name="ArarunaTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4080-294x165-FFFFFF.jpg" group-title="Entretenimiento",ArarunaTV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="3768" tvg-name="TV HISTORIA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3768-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV HISTORIA
 https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
-#EXTINF:-1 tvg-id="3633" tvg-name="TV CARIOCA INTERNACIONAL" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3633-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV CARIOCA INTERNACIONAL
+#EXTINF:-1 tvg-id="3633" tvg-name="ENTERTAINMENT PLAY FAMILY" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3633-294x165-FFFFFF.jpg" group-title="Entretenimiento",ENTERTAINMENT PLAY FAMILY
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 #EXTINF:-1 tvg-id="3453" tvg-name="TV MON HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3453-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV MON HD
 https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
@@ -270,7 +306,7 @@ https://tv.ippmais.com.br/live/26092358420999225499.m3u8
 #EXTINF:-1 tvg-id="3946" tvg-name="CINE CATÁSTROFE" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3946-294x165-FFFFFF.jpg" group-title="Entretenimiento",CINE CATÁSTROFE
 https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
 #EXTINF:-1 tvg-id="3947" tvg-name="TV PROTAGONISTAS DO BRASIL" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3947-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV PROTAGONISTAS DO BRASIL
-https://stmv1.samcast.com.br/tvprotagonistasdo2603/tvprotagonistasdo2603/playlist.m3u8
+https://stmv2.samcast.com.br/davi7311/davi7311/playlist.m3u8
 #EXTINF:-1 tvg-id="3677" tvg-name="GRAMADO TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3677-294x165-FFFFFF.jpg" group-title="Entretenimiento",GRAMADO TV
 https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8
 #EXTINF:-1 tvg-id="3651" tvg-name="TV TUDO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3651-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV TUDO
@@ -279,6 +315,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_i
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="3679" tvg-name="TV 100% CAIPIRA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3679-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV 100% CAIPIRA
 https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8
+#EXTINF:-1 tvg-id="3917" tvg-name="TV MAX 90" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3917-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV MAX 90
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="4020" tvg-name="Latina Sat" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4020-294x165-FFFFFF.jpg" group-title="Entretenimiento",Latina Sat
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="3682" tvg-name="TV CULTURAL HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3682-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV CULTURAL HD
@@ -337,8 +375,6 @@ https://isaocorp.cloudecast.com/alphachannel/index.m3u8
 https://video04.logicahost.com.br/tvmarzonasul/tvmarzonasul/playlist.m3u8
 #EXTINF:-1 tvg-id="3894" tvg-name="A TV Cidade Rio de Janeiro" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3894-294x165-FFFFFF.jpg" group-title="Entretenimiento",A TV Cidade Rio de Janeiro
 https://stream.ichibansys.com:3809/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="3911" tvg-name="Adesso TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3911-294x165-FFFFFF.jpg" group-title="Entretenimiento",Adesso TV
-https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="3912" tvg-name="TV Aliança" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3912-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV Aliança
 https://video08.logicahost.com.br/alianca/alianca/playlist.m3u8
 #EXTINF:-1 tvg-id="3913" tvg-name="Astral TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3913-294x165-FFFFFF.jpg" group-title="Entretenimiento",Astral TV
@@ -364,25 +400,29 @@ https://stmv5.samcast.com.br/jorgerobertorodriguescardoso1832/jorgerobertorodrig
 #EXTINF:-1 tvg-id="4072" tvg-name="TVCOM - Rádio e TV Comunidade" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4072-294x165-FFFFFF.jpg" group-title="Entretenimiento",TVCOM - Rádio e TV Comunidade
 https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
 #EXTINF:-1 tvg-id="4073" tvg-name="TV Conecta" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4073-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV Conecta
-https://srv1.streaminghd.net.br/tvconecta/tvconecta/playlist.m3u8
+https://srv1954587.hstgr.cloud:8888/video01/index.m3u8
+#EXTINF:-1 tvg-id="1001" tvg-name="Nothing Scripted TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1001-294x165-FFFFFF.jpg" group-title="Entretenimiento",Nothing Scripted TV
+https://30a-tv.com/feeds/zeasn/nothingscripted.m3u8
+#EXTINF:-1 tvg-id="1893" tvg-name="8TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1893-294x165-FFFFFF.jpg" group-title="Entretenimiento",8TV
+https://v4.proofix.ru/8tv-europe/index.m3u8
 #EXTINF:-1 tvg-id="3954" tvg-name="FALAK NEWS" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3954-294x165-FFFFFF.jpg" group-title="Noticias",FALAK NEWS
 https://falak.rst.ae/index.m3u8
 #EXTINF:-1 tvg-id="3956" tvg-name="TLT DIGITAL USA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3956-294x165-FFFFFF.jpg" group-title="Entretenimiento",TLT DIGITAL USA
 https://tltdigital.rst.ae/index.m3u8
 #EXTINF:-1 tvg-id="3034" tvg-name="Test Advertise" tvg-logo="https://www.vivalivetv.com/public/files/shows/187/187573/3034-294x165-FFFFFF.jpg" group-title="Entretenimiento",Test Advertise
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3034/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3034&stime=1788190297&etime=1788276697&token=09d9ae65125b9c66083f4
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3034/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3034&stime=1789835426&etime=1789921826&token=0925dcb5ac080c596ef3e
 #EXTINF:-1 tvg-id="3035" tvg-name="Test Pay Per View" tvg-logo="https://www.vivalivetv.com/public/files/shows/187/187573/3035-294x165-FFFFFF.jpg" group-title="Entretenimiento",Test Pay Per View
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3035/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3035&stime=1788190315&etime=1788276715&token=04d75ee101089c913dd09
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3035/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3035&stime=1789835444&etime=1789921844&token=0ef7e1cd5fa7f3094926a
 #EXTINF:-1 tvg-id="2060" tvg-name="FIGHT NIGHT TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/94/94196/2060-294x165-FFFFFF.jpg" group-title="Entretenimiento",FIGHT NIGHT TV
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2060/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=2060&stime=1788190325&etime=1788276725&token=0701967fb0275d2feb5a5&p=livecdn
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2060/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=2060&stime=1789835519&etime=1789921919&token=0be129fa6c53fe91053c4&p=livecdn
 #EXTINF:-1 tvg-id="4040" tvg-name="VIVO SPORTS" tvg-logo="https://www.vivalivetv.com/public/files/shows/232/232374/4040-294x165-FFFFFF.jpg" group-title="Deportes",VIVO SPORTS
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/4040/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=4040&stime=1788190337&etime=1788276737&token=0d0c4455f252b58f465ba&p=livecdn
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/4040/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=4040&stime=1789835538&etime=1789921938&token=06f97e014b7412da47676&p=livecdn
 #EXTINF:-1 tvg-id="4063" tvg-name="VAYO SPORTS NETWORK" tvg-logo="https://www.vivalivetv.com/public/files/shows/94/94196/4063-294x165-FFFFFF.jpg" group-title="Deportes",VAYO SPORTS NETWORK
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/4063/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=4063&stime=1788190419&etime=1788276819&token=0db6877246c51f9bf09df
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/4063/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=4063&stime=1789835688&etime=1789922088&token=0f3d601d53e32774a0c66
 #EXTINF:-1 tvg-id="3066" tvg-name="Hard Knocks" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3066-294x165-FFFFFF.jpg" group-title="Entretenimiento",Hard Knocks
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
 #EXTINF:-1 tvg-id="3245" tvg-name="Action Fight League" tvg-logo="https://www.vivalivetv.com/public/files/shows/183/183320/3245-294x165-FFFFFF.jpg" group-title="Entretenimiento",Action Fight League
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3245/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3245&stime=1788190520&etime=1788276920&token=07c0df3cbdbbb4d5f3d4b
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3245/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3245&stime=1789835870&etime=1789922270&token=03c2e33d3be0f08e398a2
 #EXTINF:-1 tvg-id="3215" tvg-name="Esports Max" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3215-294x165-FFFFFF.jpg" group-title="Deportes",Esports Max
 https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="3683" tvg-name="AUTO TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3683-294x165-FFFFFF.jpg" group-title="Entretenimiento",AUTO TV
@@ -392,11 +432,15 @@ https://live20.bozztv.com/akamaissh101/ssh101/pksportshd/chunks.m3u8
 #EXTINF:-1 tvg-id="3955" tvg-name="TLT SPORTS" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3955-294x165-FFFFFF.jpg" group-title="Deportes",TLT SPORTS
 https://tltsports.rst.ae/index.m3u8
 #EXTINF:-1 tvg-id="3375" tvg-name="Sound Drip TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/204/204693/3375-294x165-FFFFFF.jpg" group-title="Entretenimiento",Sound Drip TV
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3375/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=3375&stime=1788190642&etime=1788277042&token=0f821396ff4918e6b581a&p=livecdn
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3375/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=3375&stime=1789836024&etime=1789922424&token=0f88361a63a33a200b89e&p=livecdn
 #EXTINF:-1 tvg-id="2160" tvg-name="PCTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/115/115138/2160-294x165-FFFFFF.jpg" group-title="Entretenimiento",PCTV
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2160/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=2160&stime=1788190694&etime=1788277094&token=0d648c73d09bf2451d75c
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2160/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=2160&stime=1789836107&etime=1789922507&token=0da60d8827d112d74723b
+#EXTINF:-1 tvg-id="3473" tvg-name="MiamiTV DJ" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-294x165-FFFFFF.jpg" group-title="Entretenimiento",MiamiTV DJ
+https://be7e362af1604c4ba89a6d84cdd90b85.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Music/playlist.m3u8
 #EXTINF:-1 tvg-id="2339" tvg-name="Dance TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2339-294x165-FFFFFF.jpg" group-title="Música",Dance TV
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1 tvg-id="3522" tvg-name="EnergyTV DJ" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3522-294x165-FFFFFF.jpg" group-title="Entretenimiento",EnergyTV DJ
+https://59ec5453559f0.streamlock.net/energytvDJ/smil:VIVALIVETV/playlist.m3u8
 #EXTINF:-1 tvg-id="2122" tvg-name="MUND2 TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2122-294x165-FFFFFF.jpg" group-title="Entretenimiento",MUND2 TV
 https://mlb.essastream.com:8081/mun2tv/index.m3u8
 #EXTINF:-1 tvg-id="3900" tvg-name="Tropical Moon RD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3900-294x165-FFFFFF.jpg" group-title="Entretenimiento",Tropical Moon RD
@@ -427,20 +471,22 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://627bb251f23c7.streamlock.net:444/MetaldelCielo/MetaldelCielo/playlist.m3u8
 #EXTINF:-1 tvg-id="2394" tvg-name="VISION NDV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2394-294x165-FFFFFF.jpg" group-title="Entretenimiento",VISION NDV
 https://fox.hostlagarto.com:8081/visionndv/index.m3u8
+#EXTINF:-1 tvg-id="2378" tvg-name="TDI Colombia" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2378-294x165-FFFFFF.jpg" group-title="Entretenimiento",TDI Colombia
+https://live.amelbatv.co:81/tdicolombiatv/index.m3u8
 #EXTINF:-1 tvg-id="2388" tvg-name="AION" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2388-294x165-FFFFFF.jpg" group-title="Entretenimiento",AION
 https://mlb.essastream.com:8081/aiontelevision/index.m3u8
 #EXTINF:-1 tvg-id="2471" tvg-name="30a Music" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2471-294x165-FFFFFF.jpg" group-title="Música",30a Music
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1508&live=1&avod=1&preroll=1&hls_marker=1&player_height=451&player_width=802&yob=&gender=&gdpr=0&us_privacy=[us_privacy]&content_genre=Music&content_id=2471&content_network=1&content_title=30a%2BMusic&site_page=https%3A%2F%2Fwww.vivalivetv.com%2Fchannel%2F30a-music&site_name=[channel_name]&cb=1788191326&consent=0&ua=Mozilla/5.0%20(X11;%20Linux%20x86_64;%20rv:153.0)%20Gecko/20100101%20Firefox/153.0
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1508&live=1&avod=1&preroll=1&hls_marker=1&player_height=451&player_width=802&yob=&gender=&gdpr=0&us_privacy=[us_privacy]&content_genre=Music&content_id=2471&content_network=1&content_title=30a%2BMusic&site_page=https%3A%2F%2Fwww.vivalivetv.com%2Fchannel%2F30a-music&site_name=[channel_name]&cb=1789836897&consent=0&ua=Mozilla/5.0%20(X11;%20Linux%20x86_64;%20rv:153.0)%20Gecko/20100101%20Firefox/153.0
 #EXTINF:-1 tvg-id="3731" tvg-name="KIN DIRECT TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3731-294x165-FFFFFF.jpg" group-title="Entretenimiento",KIN DIRECT TV
 https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8
 #EXTINF:-1 tvg-id="1574" tvg-name="TRACE AFRICA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1574-294x165-FFFFFF.jpg" group-title="Entretenimiento",TRACE AFRICA
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="4071" tvg-name="Puerto Rico Rentals" tvg-logo="https://www.vivalivetv.com/public/files/shows/234/234403/4071-294x165-FFFFFF.jpg" group-title="Entretenimiento",Puerto Rico Rentals
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/4071/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=4071&stime=1788191326&etime=1788277726&token=01018732f147175c0b6d2
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/4071/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=4071&stime=1789836897&etime=1789923297&token=0c826f87ffadf88b8ef06
 #EXTINF:-1 tvg-id="3434" tvg-name="FYW TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/211/211222/3434-294x165-FFFFFF.jpg" group-title="Entretenimiento",FYW TV
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3434/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3434&stime=1788191336&etime=1788277736&token=0cbb96b0d2a05f5228cc2
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3434/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3434&stime=1789836908&etime=1789923308&token=0a5ddff74affaa3936c62
 #EXTINF:-1 tvg-id="2061" tvg-name="IN DA MIX TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/94/94196/2061-294x165-FFFFFF.jpg" group-title="Entretenimiento",IN DA MIX TV
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2061/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=2061&stime=1788191347&etime=1788277747&token=07ca976945954689441f4&p=livecdn
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2061/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=2061&stime=1789836918&etime=1789923318&token=0475afc9cc97dd33c1a80&p=livecdn
 #EXTINF:-1 tvg-id="3334" tvg-name="Voice Over Radio TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/186/186033/3334-294x165-FFFFFF.jpg" group-title="Música",Voice Over Radio TV
 https://tvservices.fullhd-streaming.com:3941/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="3790" tvg-name="TELECOMERCIO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3790-294x165-FFFFFF.jpg" group-title="Entretenimiento",TELECOMERCIO
@@ -448,19 +494,23 @@ https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3
 #EXTINF:-1 tvg-id="3849" tvg-name="TV Brasil Angola" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3849-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV Brasil Angola
 https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8
 #EXTINF:-1 tvg-id="3755" tvg-name="Royalty Noire Tv" tvg-logo="https://www.vivalivetv.com/public/files/shows/211/211222/3755-294x165-FFFFFF.jpg" group-title="Entretenimiento",Royalty Noire Tv
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3755/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3755&stime=1788191501&etime=1788277901&token=012f05baeddf3daba6dfb
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3755/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3755&stime=1789837182&etime=1789923582&token=0a22b6a2b913a0b483fc5
 #EXTINF:-1 tvg-id="4055" tvg-name="Dogdaddy TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/218/218421/4055-294x165-FFFFFF.jpg" group-title="Entretenimiento",Dogdaddy TV
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/4055/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=4055&stime=1788191511&etime=1788277911&token=02265f30d2fff9cf07e96
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/4055/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=4055&stime=1789837195&etime=1789923595&token=065f75da96ef46638219c
 #EXTINF:-1 tvg-id="3836" tvg-name="Vivalivetv PR" tvg-logo="https://www.vivalivetv.com/public/files/shows/222/222191/3836-294x165-FFFFFF.jpg" group-title="Entretenimiento",Vivalivetv PR
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3836/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=3836&stime=1788191524&etime=1788277924&token=03f5aaa6d0f8dd9ec001b&p=livecdn
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3836/amlst:mainstream/playlist.m3u8?op_id=0&userId=0&channelId=3836&stime=1789837205&etime=1789923605&token=07b9be7da60121fb26fee&p=livecdn
 #EXTINF:-1 tvg-id="3783" tvg-name="KUSH TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/211/211222/3783-294x165-FFFFFF.jpg" group-title="Entretenimiento",KUSH TV
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3783/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3783&stime=1788191545&etime=1788277945&token=097db41966f90c4e072df
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3783/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3783&stime=1789837216&etime=1789923616&token=02cf8b2ec864298d46908
 #EXTINF:-1 tvg-id="3753" tvg-name="Auspicious Wellness TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/222/222499/3753-294x165-FFFFFF.jpg" group-title="Entretenimiento",Auspicious Wellness TV
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3753/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3753&stime=1788191587&etime=1788277987&token=0d2e7830ba22bbee2888e
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3753/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=3753&stime=1789837301&etime=1789923701&token=0f2f35724e1dc6997b14c
+#EXTINF:-1 tvg-id="3470" tvg-name="MiamiTV Health" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3470-294x165-FFFFFF.jpg" group-title="Salud",MiamiTV Health
+https://b89e5ae9d1654f42a728cd9fc442986e.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Health/playlist.m3u8
+#EXTINF:-1 tvg-id="3469" tvg-name="MiamiTV Life" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3469-294x165-FFFFFF.jpg" group-title="Entretenimiento",MiamiTV Life
+https://bd667242ed114299880501bf8b94e07d.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Life/playlist.m3u8
 #EXTINF:-1 tvg-id="3518" tvg-name="EnergyTV Life" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3518-294x165-FFFFFF.jpg" group-title="Entretenimiento",EnergyTV Life
 https://59ec5453559f0.streamlock.net/energytvlife/smil:VIVALIVETV/playlist.m3u8
-#EXTINF:-1 tvg-id="3519" tvg-name="EnergyTV Latino" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3519-294x165-FFFFFF.jpg" group-title="Entretenimiento",EnergyTV Latino
-https://59ec5453559f0.streamlock.net/energytvlatino/smil:VIVALIVETV/playlist.m3u8
+#EXTINF:-1 tvg-id="3437" tvg-name="PLOUS TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3437-294x165-FFFFFF.jpg" group-title="Entretenimiento",PLOUS TV
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="3902" tvg-name="MUNDO DEL CAMPO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3902-294x165-FFFFFF.jpg" group-title="Entretenimiento",MUNDO DEL CAMPO
 https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/17.m3u8
 #EXTINF:-1 tvg-id="3664" tvg-name="PORTAL DIGITAL TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3664-294x165-FFFFFF.jpg" group-title="Entretenimiento",PORTAL DIGITAL TV
@@ -495,18 +545,26 @@ https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
 https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="2199" tvg-name="Ausbiz" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2199-294x165-FFFFFF.jpg" group-title="Entretenimiento",Ausbiz
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-id="3819" tvg-name="CANALEDIECI" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3819-294x165-FFFFFF.jpg" group-title="Entretenimiento",CANALEDIECI
+https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
 #EXTINF:-1 tvg-id="3825" tvg-name="Le Monde en 24h" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3825-294x165-FFFFFF.jpg" group-title="Entretenimiento",Le Monde en 24h
 https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8
 #EXTINF:-1 tvg-id="2221" tvg-name="TRT World" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2221-294x165-FFFFFF.jpg" group-title="Entretenimiento",TRT World
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="2983" tvg-name="TTN24 Hindi News" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2983-294x165-FFFFFF.jpg" group-title="Noticias",TTN24 Hindi News
+https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8
 #EXTINF:-1 tvg-id="3951" tvg-name="Jeejal TV News" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3951-294x165-FFFFFF.jpg" group-title="Noticias",Jeejal TV News
 https://live20.bozztv.com/akamaissh101/ssh101/jeejalnews/playlist.m3u8
 #EXTINF:-1 tvg-id="3959" tvg-name="AAJ NEWS Pakistan" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3959-294x165-FFFFFF.jpg" group-title="Noticias",AAJ NEWS Pakistan
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="3958" tvg-name="7 News" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3958-294x165-FFFFFF.jpg" group-title="Noticias",7 News
 https://sscsott.com/7news/live/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="868" tvg-name="Jenny Live" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-294x165-FFFFFF.jpg" group-title="Entretenimiento",Jenny Live
+https://47a5d1da46b54926a272de4c51610d1e.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-id="3347" tvg-name="30A TV Movies" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3347-294x165-FFFFFF.jpg" group-title="Entretenimiento",30A TV Movies
+https://30a-tv.com/feeds/mwaretv/30atvmovies.m3u8
 #EXTINF:-1 tvg-id="2823" tvg-name="Pelidom" tvg-logo="https://www.vivalivetv.com/public/files/shows/156/156498/2823-294x165-FFFFFF.jpg" group-title="Entretenimiento",Pelidom
-https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2823/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=2823&stime=1788192671&etime=1788279071&token=02a87fc73f52c173acdd6
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/2823/amlst:mainstream/playlist.m3u8?p=local&op_id=58&userId=0&channelId=2823&stime=1789839173&etime=1789925573&token=0787355f295998c48d5b6
 #EXTINF:-1 tvg-id="1125" tvg-name="FMTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-294x165-FFFFFF.jpg" group-title="Música",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="4077" tvg-name="RBTI MOVIES" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4077-294x165-FFFFFF.jpg" group-title="Entretenimiento",RBTI MOVIES
@@ -515,6 +573,10 @@ https://tv.rbti.tv.br/rbti2/index.m3u8
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 tvg-id="4054" tvg-name="Os Detetives" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4054-294x165-FFFFFF.jpg" group-title="Entretenimiento",Os Detetives
 https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8
+#EXTINF:-1 tvg-id="3953" tvg-name="BS FILM" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-294x165-FFFFFF.jpg" group-title="Entretenimiento",BS FILM
+https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="3524" tvg-name="EnergyTV Mystery" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3524-294x165-FFFFFF.jpg" group-title="Entretenimiento",EnergyTV Mystery
+https://59ec5453559f0.streamlock.net/energytvmystery/smil:VIVALIVETV/playlist.m3u8
 #EXTINF:-1 tvg-id="3896" tvg-name="BEST CLASICOS TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3896-294x165-FFFFFF.jpg" group-title="Entretenimiento",BEST CLASICOS TV
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="3027" tvg-name="Extrema Kids" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" group-title="Infantil",Extrema Kids
@@ -525,10 +587,16 @@ https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
 https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
 #EXTINF:-1 tvg-id="3698" tvg-name="AG TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3698-640x360-FFFFFF.jpg" group-title="Entretenimiento",AG TV
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
+#EXTINF:-1 tvg-id="1723" tvg-name="EL VIVIENTE TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1723-294x165-FFFFFF.jpg" group-title="Entretenimiento",EL VIVIENTE TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=13009&live=1&avod=1&hls_marker=1&pod_duration=120&position=preroll&app_bundle=VIVALIVE&app_name=VIVALIVE&min_ad_duration=6&max_ad_duration=120
 #EXTINF:-1 tvg-id="4059" tvg-name="MASTER VIDEO TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4059-294x165-FFFFFF.jpg" group-title="Entretenimiento",MASTER VIDEO TV
 https://583ed2f226ac2.streamlock.net/222/stream/chunklist_w1131240711.m3u8
 #EXTINF:-1 tvg-id="1612" tvg-name="TEVE VIDA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1612-294x165-FFFFFF.jpg" group-title="Entretenimiento",TEVE VIDA
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
+#EXTINF:-1 tvg-id="2909" tvg-name="Mi amor y Vida" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2909-294x165-FFFFFF.jpg" group-title="Entretenimiento",Mi amor y Vida
+https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="2511" tvg-name="VCMEDIOS" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2511-294x165-FFFFFF.jpg" group-title="Entretenimiento",VCMEDIOS
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12963&live=1&avod=1&hls_marker=1&pod_duration=120&position=preroll&app_bundle=VIVALIVE&app_name=VIVALIVE&min_ad_duration=6&max_ad_duration=120
 #EXTINF:-1 tvg-id="3940" tvg-name="IBCK" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3940-294x165-FFFFFF.jpg" group-title="Entretenimiento",IBCK
 https://somosnoticiasnetwork.com:3269/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="2877" tvg-name="Sublime GRACIA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2877-294x165-FFFFFF.jpg" group-title="Entretenimiento",Sublime GRACIA
@@ -541,6 +609,8 @@ https://livetv.305streamhd.com:3868/live/bagogeublive.m3u8
 https://tv.eben-ezer.church/hls/EbenezerChurchLiveTV.m3u8
 #EXTINF:-1 tvg-id="3924" tvg-name="TV LEON DE JUDA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3924-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV LEON DE JUDA
 https://6110f70ea8d0e.streamlock.net/1838/1838/chunklist_w1969669659.m3u8
+#EXTINF:-1 tvg-id="2943" tvg-name="CANAL RESTAURANDO VIDAS" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-294x165-FFFFFF.jpg" group-title="Entretenimiento",CANAL RESTAURANDO VIDAS
+https://v4.tustreaming.cl/restaurandovida/index.m3u8
 #EXTINF:-1 tvg-id="3775" tvg-name="MIZPA TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3775-294x165-FFFFFF.jpg" group-title="Entretenimiento",MIZPA TV
 https://mizpatv.sitiosweb7.live/live/0n4M663tIrZHgCWV7xoJPyL8ig13/index.m3u8
 #EXTINF:-1 tvg-id="3830" tvg-name="Espiritu Santo Y Fuego" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3830-294x165-FFFFFF.jpg" group-title="Entretenimiento",Espiritu Santo Y Fuego
@@ -549,6 +619,8 @@ https://stream.inliveserver.com:19360/8056/8056.m3u8
 https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
 #EXTINF:-1 tvg-id="2859" tvg-name="ASOMAVISION" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2859-294x165-FFFFFF.jpg" group-title="Entretenimiento",ASOMAVISION
 https://asomatv.cloud-ip.cc/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="3899" tvg-name="BENDICION CHANNEL" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3899-294x165-FFFFFF.jpg" group-title="Entretenimiento",BENDICION CHANNEL
+https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
 #EXTINF:-1 tvg-id="2680" tvg-name="Luz Naciente" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2680-294x165-FFFFFF.jpg" group-title="Entretenimiento",Luz Naciente
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 #EXTINF:-1 tvg-id="3943" tvg-name="Esperanza Television" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3943-294x165-FFFFFF.jpg" group-title="Entretenimiento",Esperanza Television
@@ -586,26 +658,110 @@ https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u
 #EXTINF:-1 tvg-id="3875" tvg-name="TV Pai Eterno" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3875-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV Pai Eterno
 https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1170674421.m3u8
 #EXTINF:-1 tvg-id="3898" tvg-name="TV Rabelo" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3898-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV Rabelo
-https://stv1.ipstm.net:3639/stream/play.m3u8
+https://s1.tvr.ovh/video10934/video10934/playlist.m3u8
 #EXTINF:-1 tvg-id="3957" tvg-name="TLT QURAN" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3957-294x165-FFFFFF.jpg" group-title="Entretenimiento",TLT QURAN
 https://tltquran.rst.ae/index.m3u8
+#EXTINF:-1 tvg-id="2514" tvg-name="Andalucia Cocina" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2514-294x165-FFFFFF.jpg" group-title="Cocina",Andalucia Cocina
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:-1 tvg-id="3748" tvg-name="ATV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3748-294x165-FFFFFF.jpg" group-title="Entretenimiento",ATV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=13354&live=1&avod=1&hls_marker=1&pod_duration=120&position=preroll&app_bundle=VIVALIVE&app_name=VIVALIVE&min_ad_duration=6&max_ad_duration=120
 #EXTINF:-1 tvg-id="3749" tvg-name="Doce TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3749-294x165-FFFFFF.jpg" group-title="Entretenimiento",Doce TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12682&live=1&avod=1&hls_marker=1&pod_duration=120&position=preroll&app_bundle=VIVALIVE&app_name=VIVALIVE&min_ad_duration=6&max_ad_duration=120
 #EXTINF:-1 tvg-id="2515" tvg-name="Andalucia Turismo" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2515-294x165-FFFFFF.jpg" group-title="Entretenimiento",Andalucia Turismo
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12685&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
-#EXTINF:-1 tvg-id="2527" tvg-name="Televigo" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2527-294x165-FFFFFF.jpg" group-title="Entretenimiento",Televigo
-https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12687&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
 #EXTINF:-1 tvg-id="2518" tvg-name="Guada TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2518-294x165-FFFFFF.jpg" group-title="Entretenimiento",Guada TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12689&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
-#EXTINF:-1 tvg-id="2514" tvg-name="Andalucia Cocina" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2514-294x165-FFFFFF.jpg" group-title="Cocina",Andalucia Cocina
-https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:-1 tvg-id="3642" tvg-name="EsTuTele" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3642-294x165-FFFFFF.jpg" group-title="Entretenimiento",EsTuTele
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12680&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
+#EXTINF:-1 tvg-id="3644" tvg-name="GCM" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3644-294x165-FFFFFF.jpg" group-title="Entretenimiento",GCM
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=12128&live=1&avod=1&hls_marker=1&pod_duration=%5BPOD_DURATION%5D&min_ad_duration=6&max_ad_duration=120&site_page=%5BSITE_PAGE%5D&site_name=
+#EXTINF:-1 tvg-id="3743" tvg-name="AGROTENDENCIA TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3743-294x165-FFFFFF.jpg" group-title="Entretenimiento",AGROTENDENCIA TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=13129&live=1&avod=1&hls_marker=1&pod_duration=120&position=preroll&app_bundle=VIVALIVE&app_name=VIVALIVE&min_ad_duration=6&max_ad_duration=120
 #EXTINF:-1 tvg-id="3650" tvg-name="TV DO CARRO" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3650-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV DO CARRO
 https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 #EXTINF:-1 tvg-id="4032" tvg-name="TV Car Multimarcas" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4032-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV Car Multimarcas
 https://video11.logicahost.com.br/tvcar/tvcar/playlist.m3u8
 #EXTINF:-1 tvg-id="4053" tvg-name="Comedy Club" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4053-294x165-FFFFFF.jpg" group-title="Entretenimiento",Comedy Club
 https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
-#EXTINF:-1 tvg-id="1609" tvg-name="Miami TV Viva" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1609-294x165-FFFFFF.jpg" group-title="Entretenimiento",Miami TV Viva
-https://43d129f5f27a459c9905c5e874866316.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-MiamiTV/playlist.m3u8
 #EXTINF:-1 tvg-id="2685" tvg-name="Mirame TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2685-294x165-FFFFFF.jpg" group-title="Entretenimiento",Mirame TV
-https://stream-us-east-1.getpublica.com/cl/260831daar979u8oes73a1ri20/1920x1080_3319478_0_f.m3u8?i=1187_13696
+https://stream-us-east-1.getpublica.com/cl/260920dann2idqpeoc73aq8gig/1920x1080_3458899_0_f.m3u8?i=1187_13696
+#EXTINF:-1 tvg-id="2548" tvg-name="AWE Plus" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2548-294x165-FFFFFF.jpg" group-title="Entretenimiento",AWE Plus
+https://a-cdn.klowdtv.com/live1/awe_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="4052" tvg-name="PLUG TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4052-294x165-FFFFFF.jpg" group-title="Entretenimiento",PLUG TV
+https://live.ottdash.com/stream/10JQS-5Q8ERK5L/eyJ0eXAiOiJKV1QifQ.eyJleHAiOjAsImFjY291bnRfaWQiOiIzMzQwMiIsInZlcnNpb24iOiIxLjAifQ.gQJ_A2L3qs_sNFiAZCoC4YJ8mpdjG7AacXUV1i32GrDOHz8fBS7iTiIFjF2mOwtoFZHN5DnWoanLTr0P-3B1sA.m3u8
+#EXTINF:-1 tvg-id="2893" tvg-name="Mega Cine" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Entretenimiento",Mega Cine
+https://edge.essastream.com/megacinetv/index.m3u8
+#EXTINF:-1 tvg-id="3326" tvg-name="VILLA TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3326-294x165-FFFFFF.jpg" group-title="Entretenimiento",VILLA TV
+https://cdn.streamrd.cloud/live/ch_loekrwrl.m3u8
+#EXTINF:-1 tvg-id="4066" tvg-name="CONEXION POSITIVA TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4066-294x165-FFFFFF.jpg" group-title="Entretenimiento",CONEXION POSITIVA TV
+https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
+#EXTINF:-1 tvg-id="3381" tvg-name="VTV32" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3381-294x165-FFFFFF.jpg" group-title="Entretenimiento",VTV32
+https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+#EXTINF:-1 tvg-id="3703" tvg-name="Turrialba Digital TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3703-294x165-FFFFFF.jpg" group-title="Entretenimiento",Turrialba Digital TV
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+#EXTINF:-1 tvg-id="2528" tvg-name="Mediterraneo" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2528-294x165-FFFFFF.jpg" group-title="Entretenimiento",Mediterraneo
+https://s.emisoras.tv:8081/chiclana/index.m3u8
+#EXTINF:-1 tvg-id="3659" tvg-name="OEPM Television" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3659-294x165-FFFFFF.jpg" group-title="Entretenimiento",OEPM Television
+https://cnn.hostlagarto.com/oepmtelevision/index.m3u8
+#EXTINF:-1 tvg-id="1876" tvg-name="CNC Medellin" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1876-294x165-FFFFFF.jpg" group-title="Entretenimiento",CNC Medellin
+https://hvtraficonew.ddns.net/cncmedellinmagistv/index.m3u8
+#EXTINF:-1 tvg-id="3327" tvg-name="R&E TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3327-640x360-FFFFFF.jpg" group-title="Entretenimiento",R&E TV
+https://tv2.bitstreaming.net:8443/live/r-e-tv.m3u8
+#EXTINF:-1 tvg-id="3845" tvg-name="TV COTUI 31" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3845-294x165-FFFFFF.jpg" group-title="Entretenimiento",TV COTUI 31
+https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/chunks.m3u8
+#EXTINF:-1 tvg-id="3332" tvg-name="Nitida TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3332-294x165-FFFFFF.jpg" group-title="Entretenimiento",Nitida TV
+https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="Darcizzle" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1003-294x165-FFFFFF.jpg" group-title="Entretenimiento",Darcizzle
+https://30a-tv.com/feeds/zeasn/fishingoffshore.m3u8
+#EXTINF:-1 tvg-id="999" tvg-name="Sidewalks TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/999-294x165-FFFFFF.jpg" group-title="Entretenimiento",Sidewalks TV
+https://30a-tv.com/feeds/zeasn/sidewalks.m3u8
+#EXTINF:-1 tvg-id="1259" tvg-name="Das Erste" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1259-294x165-FFFFFF.jpg" group-title="Entretenimiento",Das Erste
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 tvg-id="3952" tvg-name="BSTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3952-294x165-FFFFFF.jpg" group-title="Entretenimiento",BSTV
+https://live20.bozztv.com/akamaissh101/ssh101/bstv/chunks.m3u8
+#EXTINF:-1 tvg-id="3350" tvg-name="Tottenham TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3350-294x165-FFFFFF.jpg" group-title="Entretenimiento",Tottenham TV
+https://30a-tv.com/feeds/mwaretv/tottenham.m3u8
+#EXTINF:-1 tvg-id="1971" tvg-name="FITE 24/7" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1971-294x165-FFFFFF.jpg" group-title="Entretenimiento",FITE 24/7
+https://d3d85c7qkywguj.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/7d336a13-1e3a-45dd-844a-33c3cd778d61/2.m3u8
+#EXTINF:-1 tvg-id="3348" tvg-name="30A TV Cars" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3348-294x165-FFFFFF.jpg" group-title="Entretenimiento",30A TV Cars
+https://30a-tv.com/feeds/mwaretv/cars.m3u8
+#EXTINF:-1 tvg-id="3349" tvg-name="Nauti Styles TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3349-294x165-FFFFFF.jpg" group-title="Entretenimiento",Nauti Styles TV
+https://30a-tv.com/feeds/mwaretv/nautistyles.m3u8
+#EXTINF:-1 tvg-id="3707" tvg-name="COLIMDO TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3707-294x165-FFFFFF.jpg" group-title="Entretenimiento",COLIMDO TV
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 tvg-id="3235" tvg-name="INFINITA TV PREMIUM" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3235-294x165-FFFFFF.jpg" group-title="Entretenimiento",INFINITA TV PREMIUM
+https://stream-us-east-1.getpublica.com/cl/260920dano12ttntoc73bonkr0/1280x720_1500000_0_f.m3u8?i=1187_13001
+#EXTINF:-1 tvg-id="1923" tvg-name="LTP Music TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1923-294x165-FFFFFF.jpg" group-title="Música",LTP Music TV
+https://edge.essastream.com/ltpmusictv/index.m3u8
+#EXTINF:-1 tvg-id="3450" tvg-name="Comercio TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3450-294x165-FFFFFF.jpg" group-title="Entretenimiento",Comercio TV
+https://amg00082-amg00082c1-vivalivetv-worldwide-7555.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg00082-tarima-comercio-vivalivetvworldwide/cb57341d6577659098ca3a78d1f74782ad7b3dcb0e6c886470af4a9765d9775884b7e1bfb415aa204cd717d80e0c695a4d258d13df7902d9de63b826612f4c2b859ab27ad9991309b3c8797368e62c4119e10f10d33b53309db91b5edd6ce32a515eea5d6c507fdcec0fac6b0393d203962e788df98f376a2c5859ce5e57c69a6df7a1a57f79e256c3c47c34e45c3088ff37c3fc2683d1941bf11dd72ba436a1a8cae9a670fef7e216c62ac76e7a3241688b8c0bffa33784ffaa4518bf54176b3b0f9bc9feff5e2cb9545753eafaf4aa77f361a2e34fb345079721bb6abb1daf31df63c2e241b0bdbaad2e2b5396e16b4d0683c09fa7de6f4bd70ef2a4e8e2676589f366142da35ffd120719b3d8f439a19966fcd52f88a01b7152aaa360abb193a0ca8fa06fc65fa0ade18b02525c6a12038544d0f607b11bf84884ef3004636061f7e03fae87c94e0f605a888452d16177d3b1b9a6ef221ae9452477cd3aaa316668c5301e108f47cbbf0c40a8052fba1818c9b554ea309469d30cc6ab847c5990ed8527cc7feebc04a08768cb480929ce376f4e25236968c2e176084a14ab95460dab93112e09fef8c3ff822750a28cbc337ee9c1d30af2adc13d1c1ace5d2f6136617f6896350aad626e2954af39dabe067a844c464783f6680d0a3fc48bd9e0f6a40f9914084debdd409abc53282bc4630624be93984bf2284e31575c841d6d4787113064c79ad3ec958c6f81c92afa782a2c3294ab576d005c667b4a83c83ee808b6c85dab8d900d99bcc3420cc51ba6021b919f8e3ca9bdd1961f5ed08c5e0b6291dc3f8a227894598459efb815f4b95b1304460322a5a35be556b5d39bbd44bc25bf4a0571f238f6dccfbad8734ea5f66e36200241186f58157d58ec3ab4d7e2a559daa735bb84611184ededcf96cf8a154e18/144/854x480_1354936/index.m3u8
+#EXTINF:-1 tvg-id="3352" tvg-name="VISIT FLORIDA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3352-294x165-FFFFFF.jpg" group-title="Entretenimiento",VISIT FLORIDA
+https://30a-tv.com/feeds/mwaretv/visitflorida.m3u8
+#EXTINF:-1 tvg-id="1397" tvg-name="Loomired TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1397-294x165-FFFFFF.jpg" group-title="Entretenimiento",Loomired TV
+https://30a-tv.com/feeds/zeasn/loomeredtv.m3u8
+#EXTINF:-1 tvg-id="1183" tvg-name="Newsy" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1183-294x165-FFFFFF.jpg" group-title="Noticias",Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1 tvg-id="1983" tvg-name="Al Jazeera Arabic" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1983-294x165-FFFFFF.jpg" group-title="Entretenimiento",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="2590" tvg-name="Africa News" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2590-294x165-FFFFFF.jpg" group-title="Noticias",Africa News
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-id="636" tvg-name="The Shopping Channel" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/636-294x165-FFFFFF.jpg" group-title="Entretenimiento",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 tvg-id="1009" tvg-name="Dios te ve" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1009-294x165-FFFFFF.jpg" group-title="Entretenimiento",Dios te ve
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
+#EXTINF:-1 tvg-id="2477" tvg-name="DIOS TE VE KIDS" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2477-294x165-FFFFFF.jpg" group-title="Infantil",DIOS TE VE KIDS
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 tvg-id="4018" tvg-name="BETHEL TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4018-294x165-FFFFFF.jpg" group-title="Entretenimiento",BETHEL TV
+https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8?nimblesessionid=182290834
+#EXTINF:-1 tvg-id="4076" tvg-name="VENCEDOR TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4076-294x165-FFFFFF.jpg" group-title="Entretenimiento",VENCEDOR TV
+https://eu1.servers10.com:8081/8346/index.m3u8
+#EXTINF:-1 tvg-id="3533" tvg-name="Vida al Maximo TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3533-294x165-FFFFFF.jpg" group-title="Entretenimiento",Vida al Maximo TV
+https://live20.bozztv.com/akamaissh101/ssh101/vidaalmaximo11/chunks.m3u8
+#EXTINF:-1 tvg-id="3744" tvg-name="TeleToledo" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3744-294x165-FFFFFF.jpg" group-title="Entretenimiento",TeleToledo
+https://stream-us-east-1.getpublica.com/cl/260920danocqqvj2qs73cjvov0/1280x720_1500000_0_f.m3u8?i=1187_12688
+#EXTINF:-1 tvg-id="2527" tvg-name="Televigo" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2527-294x165-FFFFFF.jpg" group-title="Entretenimiento",Televigo
+https://stream-us-east-1.getpublica.com/cl/260920danod6t2piqc738kvqfg/1920x1080_3618570_0_f.m3u8?i=1187_12687
+#EXTINF:-1 tvg-id="2525" tvg-name="Popular TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2525-294x165-FFFFFF.jpg" group-title="Entretenimiento",Popular TV
+https://stream-us-east-1.getpublica.com/cl/260920danodiv8qhvc739pt8s0/1280x720_1500000_0_f.m3u8?i=1187_12690
+#EXTINF:-1 tvg-id="1106" tvg-name="The Beach Show" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1106-294x165-FFFFFF.jpg" group-title="Entretenimiento",The Beach Show
+https://30a-tv.com/feeds/vivalivetv/beachshow.m3u8
