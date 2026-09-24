@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/wedotv.xml"
 #EXTINF:-1 tvg-id="es-es_food-on" tvg-name="Food On" tvg-logo="https://cdn-01.watch4.com/01/1766151392_food-on_white_logo.png" group-title="Comida",Food On
 https://amg15905-k20-amg15905c4-wedotv-eu-11011.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg15905-mediacan-foodon-wedotveu/playlist.m3u8?pod_ad_slots=&app_bundle=&brand_name=&ic=&idtype=&iu=&network_name=&schain=&url=https%3A%2F%2Fwedotv.com&app_name=wedotv&channel_name=&gpp_sid=&ifa_type=&us_privacy=&app_store_url=https%3A%2F%2Fwedotv.com&content_livestream=&coppa=&gdpr=1&gpp=&inv_partner_domain=&lmt=&dnt=&app_category=&app_domain=&app_version=&t-content_cat=&t-keywords=&t-gkc-flags=&t_keywords=&t_content_cat=&t_gkc_flags=&channel_name=FoodOn&content_custom_1_param=FoodOn
 #EXTINF:-1 tvg-id="es-es_glory-kickboxing" tvg-name="Glory Kickboxing" tvg-logo="https://cdn-01.watch4.com/01/1736155176_glory-kickboxing_white_logo.png" group-title="Deportes",Glory Kickboxing
