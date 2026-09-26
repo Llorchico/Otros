@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/wedotv.xml"
 #EXTINF:-1 tvg-id="es-es_glory-kickboxing" tvg-name="Glory Kickboxing" tvg-logo="https://cdn-01.watch4.com/01/1736155176_glory-kickboxing_white_logo.png" group-title="Deportes",Glory Kickboxing
 https://cd27c992.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/V2Vkb1RWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8?app_bundle=&app_name=wedotv&app_store_url=https%3A%2F%2Fwedotv.com&url=https%3A%2F%2Fwedotv.com&gdpr=1&channel_name=Glory+Kickboxing&content_custom_1_param=Glory+Kickboxing
 #EXTINF:-1 tvg-id="es-es_trace-sport-stars" tvg-name="Trace Sport Stars" tvg-logo="https://cdn-01.watch4.com/01/trace-sport-stars_white_logo.png" group-title="Deportes",Trace Sport Stars
