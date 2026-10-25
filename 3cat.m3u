@@ -30,11 +30,11 @@ https://fast-tailor.3catdirectes.cat/v1/channel/joc-de-cartes/hls.m3u8
 #EXTINF:-1 tvg-id="doraemon.es" group-title="3Cat | Temàtics",Doraemon
 https://fast-tailor.3catdirectes.cat/v1/channel/doraemon/hls.m3u8
 
+#EXTINF:-1 tvg-id="ccmachannel2.es" group-title="3Cat | Temàtics",Plats Bruts
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+
 #EXTINF:-1 tvg-id="vinagreta.es" group-title="3Cat | Temàtics",Vinagre(ta)
 https://fast-tailor.3catdirectes.cat/v1/channel/vinagreta/hls.m3u8
-
-#EXTINF:-1 tvg-id="ccmachannel2.es" group-title="3Cat | Temàtics",Plats bruts
-https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 
 #EXTINF:-1 tvg-id="cameresdeltemps.es" group-title="3Cat | Temàtics",Càmeres del temps
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
