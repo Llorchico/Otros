@@ -35,6 +35,16 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/can/la1_can_main_720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0 Safari/537.36
 https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
 
+#EXTINF:-1 group-title="RTVE Lineales" tvg-name="La 2 Cat" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",La 2 Cat
+#EXTVLCOPT:http-referrer=https://www.rtve.es/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+
+#EXTINF:-1 group-title="RTVE Lineales" tvg-name="RTVE 70 Años" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",RTVE 70 Años
+#EXTVLCOPT:http-referrer=https://www.rtve.es/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://ztnr.rtve.es/ztnr/17232941.m3u8
+
 #EXTINF:-1 group-title="RTVE Temáticos" tvg-name="Conciertos Radio 3" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",Conciertos Radio 3
 #EXTVLCOPT:http-referrer=https://www.rtve.es/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0 Safari/537.36
