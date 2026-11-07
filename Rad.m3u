@@ -43,8 +43,6 @@ https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-
 https://stmv3.tropicalmoonmedia.com/dreamediatv/dreamediatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ca29c91b-aedd-4417-aede-20b249d675ce/b08ce53a12abfe73a416179a6d583367" group-title="Documentary", Radio Labrar TV
 https://183.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/7912305c-d664-4dda-9d88-a47384bfbd0c/cbb7282700011d823632cc6c7a8d58d3" group-title="Kids", S Metro TV
-https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/cbe94121-f011-4b3c-8840-f2a1b464eb33/def33882a5e7145bbd1c224258408e75" group-title="Comedy", CLOWD TV
 https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-east-2.amazonaws.com/v1/channel/rad-linear-lrn-12core-media-content-s-ae443402fe83/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/f5548c9b-ced2-4b50-bdd9-b9c04b9a2532/2dd6753056ad0a42b93de0abe0e4d75b" group-title="AI", Botflix TV
