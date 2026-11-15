@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Antena 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/06/6C7B663A-2E7B-4A46-BE71-810E327FCFB1.png",Antena 3
-https://atres-live.atresmedia.com/cd7f95b954461c590421767111968a49cdff2bf3_ES_1794000394_1794029134/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Antena 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/07/04/A08FA6C9-2F8A-46E8-8515-65F8AFB69681.png",Antena 3
+https://atres-live.atresmedia.com/c14bc61050d45e5b4d931ae2062f33d69c6072f1_ES_1794726270_1794755010/hlsts/live/antena3_usp/antena3_usp.isml/playlist.m3u8
 
 #EXTINF:-1 group-title="Atresplayer" tvg-name="Aqui No Hay Quien Viva" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/9F9EF36E-8B6F-4817-8E0A-94B6B8DFBE54.png",Aqui No Hay Quien Viva
 https://fast-channels.atresmedia.com/5e0495d7b4180c456c641b65e97f3c7a4792dae2/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Atreseries" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/7243EDE0-4D74-4088-8FC6-66D3FB148982.png",Atreseries
-https://atres-live.atresmedia.com/c0b9551d912a27f1ab84b85a18ebe6d1f83abb15_ES_1794000395_1794029135/hlsts/live/a3series_usp/a3series_usp.isml/playlist.m3u8
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Atreseries" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/6EB53979-A38A-473E-AFA0-47ABBFC8CAE3.png",Atreseries
+https://atres-live.atresmedia.com/9c05bdb9a3f5fae611932b15a0201df822c92805_ES_1794726272_1794755012/hlsts/live/a3series_usp/a3series_usp.isml/playlist.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Canal Flooxer" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/10/17/05D983B5-8092-40AA-B5F2-376F89BC69C0.png",Canal Flooxer
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Canal Flooxer" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/29/C901C0D3-3B04-4AEC-A945-1A939100C60E.png",Canal Flooxer
 https://fast-channels.atresmedia.com/1b9f24fdf7f00ec62855d044df3ecb5dc5aa230f/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 
 #EXTINF:-1 group-title="Atresplayer" tvg-name="Canal Kidz" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/12/15/2DA3C9A0-4F8F-40F4-9B4B-6468DE2438A6.png",Canal Kidz
 https://fast-channels.atresmedia.com/7dbb813cd054f3c2c0ceb064ab225e7b6f7045db/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Clasicos" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/FD153570-05C5-4CDA-9A68-66B549740B4E.png",Clasicos
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Clasicos" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/E7191913-E81C-4F23-87F2-928989F068EE.png",Clasicos
 https://fast-channels.atresmedia.com/8f407455c0c446ad7ca81bdd69aea41125e50d92/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/1.m3u8
 
 #EXTINF:-1 group-title="Atresplayer" tvg-name="Comedia" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/6EB53979-A38A-473E-AFA0-47ABBFC8CAE3.png",Comedia
@@ -33,20 +33,23 @@ https://fast-channels.atresmedia.com/b512f9b72e28929cf068f1e88498f37646b9cdda/64
 #EXTINF:-1 group-title="Atresplayer" tvg-name="Foq" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/FFCBCC26-2F14-4B8C-BE0C-FACC7C5AD13A.png",Foq
 https://fast-channels.atresmedia.com/bc479bc439c4dcd32e09ecd3abce821eb8e7d284/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="laSexta" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/07/03/3A1855C7-28EA-4E7D-A9C4-4F8C1023B871.png",laSexta
-https://atres-live.atresmedia.com/b10219294eb40fde66418c8fc40038fa3ca36b7f_ES_1794000394_1794029134/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
+#EXTINF:-1 group-title="Atresplayer" tvg-name="laSexta" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/07/03/62555AD0-260F-4DF3-8CE5-6143E73A3672.png",laSexta
+https://atres-live.atresmedia.com/601f1a75b2ff3734d33108934de4409f3bb1ebed_ES_1794726271_1794755011/hlsts/live/lasexta_usp/lasexta_usp.isml/playlist.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Mega",Mega
-https://atres-live.atresmedia.com/8e3b4c3bc706256dfdfaa814996ea5c2e9563079_ES_1794000395_1794029135/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Mega" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2024/03/12/13B09CDA-B69A-4765-B4E8-0831C8FD9A93.png",Mega
+https://atres-live.atresmedia.com/0f4c02c5e1cf3dc30b0a9e7be8a55c0a78934d43_ES_1794726272_1794755012/hlsts/live/mega_usp/mega_usp.isml/playlist.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Mentes Inquietas" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/07/03/46FE220F-BF64-498E-8C79-8FE16374B815.png",Mentes Inquietas
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Mentes Inquietas" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/07/03/3A1855C7-28EA-4E7D-A9C4-4F8C1023B871.png",Mentes Inquietas
 https://fast-channels.atresmedia.com/20e30558d9257838b3606ff51b0454ac50e56550/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Multicine",Multicine
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Multicine" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2025/06/27/20B69304-243E-4E49-BF07-B5D7BABAF6D6.png",Multicine
 https://fast-channels.atresmedia.com/174ad081ccc341d4bd9f4db9c99c1d4f6797f71e/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Neox",Neox
-https://atres-live.atresmedia.com/e54a5a915462d1962ba3005da0e57f56908ee7f0_ES_1794000394_1794029134/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Navidad",Navidad
+https://fast-channels.atresmedia.com/1c0917a331e9f60068c79af1ce2ed2cbee823edd/6925ce76a7fab0e490e2e7ac/6925ce76a7fab0e490e2e7ac.m3u8
 
-#EXTINF:-1 group-title="Atresplayer" tvg-name="Nova" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2026/09/02/27004533-9E38-4DDB-84E0-3969FBD7B1C5.png",Nova
-https://atres-live.atresmedia.com/35a9cf37831c281e74770546e61296dabff1c64c_ES_1794000395_1794029135/hlsts/live/nova_usp/nova_usp.isml/playlist.m3u8
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Neox" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2026/08/17/28D391ED-FD07-44C8-B496-14D417DD8D32.png",Neox
+https://atres-live.atresmedia.com/1c63a9c3fcdceda41286308506469f4def25de2b_ES_1794726271_1794755011/hlsts/live/neox_usp/neox_usp.isml/playlist.m3u8
+
+#EXTINF:-1 group-title="Atresplayer" tvg-name="Nova" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/23/2E4BD26B-8B84-4C25-A1F0-6E1F29B29F0A.png",Nova
+https://atres-live.atresmedia.com/c63badaa2ef57b09bcd329875458435879057e7d_ES_1794726271_1794755011/hlsts/live/nova_usp/nova_usp.isml/playlist.m3u8

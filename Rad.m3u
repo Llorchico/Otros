@@ -41,11 +41,11 @@ https://global2.cgtn.cicc.media.caton.cloud/master/miji-cgtn-hilife.m3u8
 https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-east-2.amazonaws.com/v1/channel/rad-linear-lrn-12core-media-content-s-13033fcf8712/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ad987a51-1720-42a5-a910-14ae251f73ad/1976e1cb4ca8d4790f701dcb1950447e" group-title="Music", streamforce 360
 https://stmv3.tropicalmoonmedia.com/dreamediatv/dreamediatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/ca29c91b-aedd-4417-aede-20b249d675ce/b08ce53a12abfe73a416179a6d583367" group-title="Documentary", Radio Labrar TV
-https://183.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/cbe94121-f011-4b3c-8840-f2a1b464eb33/def33882a5e7145bbd1c224258408e75" group-title="Comedy", CLOWD TV
 https://e7f54eadbe28b6cdbe6018ea043f2209.s7c03u.channel-assembly.mediatailor.us-east-2.amazonaws.com/v1/channel/rad-linear-lrn-12core-media-content-s-ae443402fe83/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/f5548c9b-ced2-4b50-bdd9-b9c04b9a2532/2dd6753056ad0a42b93de0abe0e4d75b" group-title="AI", Botflix TV
 https://hls.botflix.tv/tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/67996171-fb78-4834-b791-00d21dedd7f7/54c046e9311c7e2dff87c84965174d7f" group-title="Music", Botflix Radioo
 https://hls.botflix.tv/radioo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.12core.net/media/content/stream/625cda23-3076-4ab4-b912-dee85be9b89a/b1c494c41d634a5c7b735cbb1fe730de" group-title="Music", Lamore Rock Show WebTV
+https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8

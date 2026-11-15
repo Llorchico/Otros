@@ -40,10 +40,15 @@ https://ztnr.rtve.es/ztnr/3987218.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://ztnr.rtve.es/ztnr/17232941.m3u8
 
-#EXTINF:-1 group-title="RTVE Lineales" tvg-name="Play Rneaccesible" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",Play Rneaccesible
+#EXTINF:-1 group-title="RTVE Lineales" tvg-name="Play Segundaestrella" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",Play Segundaestrella
 #EXTVLCOPT:http-referrer=https://www.rtve.es/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://ztnr.rtve.es/ztnr/17303384.m3u8
+https://ztnr.rtve.es/ztnr/17239088.m3u8
+
+#EXTINF:-1 group-title="RTVE Lineales" tvg-name="2CAT" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",2CAT
+#EXTVLCOPT:http-referrer=https://www.rtve.es/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://ztnr.rtve.es/ztnr/3987218.m3u8
 
 #EXTINF:-1 group-title="RTVE Temáticos" tvg-name="RTVE Somos Cine" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",RTVE Somos Cine
 #EXTVLCOPT:http-referrer=https://www.rtve.es/
@@ -65,30 +70,15 @@ https://ztnr.rtve.es/ztnr/16862827.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://ztnr.rtve.es/ztnr/16656232.m3u8
 
-#EXTINF:-1 group-title="RTVE Lineales" tvg-name="2CAT" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",2CAT
+#EXTINF:-1 group-title="RTVE Lineales" tvg-name="Play Rneaccesible" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",Play Rneaccesible
 #EXTVLCOPT:http-referrer=https://www.rtve.es/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://ztnr.rtve.es/ztnr/3987218.m3u8
+https://ztnr.rtve.es/ztnr/17303384.m3u8
 
-#EXTINF:-1 group-title="RTVE Lineales" tvg-name="Homenaje Jesus De Miguel" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",Homenaje Jesus De Miguel
+#EXTINF:-1 group-title="RTVE Lineales" tvg-name="Hockey Patines Palau Vila Sana Ok Liga Iberdrola" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",Hockey Patines Palau Vila Sana Ok Liga Iberdrola
 #EXTVLCOPT:http-referrer=https://www.rtve.es/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-
-#EXTINF:-1 group-title="RTVE Lineales" tvg-name="Debat Electoral 29n Eleccions Generals Candidats Barcelona" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",Debat Electoral 29n Eleccions Generals Candidats Barcelona
-#EXTVLCOPT:http-referrer=https://www.rtve.es/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://ztnr.rtve.es/ztnr/3987218.m3u8
-
-#EXTINF:-1 group-title="RTVE Lineales" tvg-name="Triatlon World Triathlon Championship Series Relevos Mixtos" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",Triatlon World Triathlon Championship Series Relevos Mixtos
-#EXTVLCOPT:http-referrer=https://www.rtve.es/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-
-#EXTINF:-1 group-title="RTVE Temáticos" tvg-name="RTVE Play Cuéntame" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",RTVE Play Cuéntame
-#EXTVLCOPT:http-referrer=https://www.rtve.es/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://ztnr.rtve.es/ztnr/16464390.m3u8
 
 #EXTINF:-1 group-title="RTVE Temáticos" tvg-name="RTVE La Revuelta" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",RTVE La Revuelta
 #EXTVLCOPT:http-referrer=https://www.rtve.es/
@@ -99,3 +89,8 @@ https://ztnr.rtve.es/ztnr/16464388.m3u8
 #EXTVLCOPT:http-referrer=https://www.rtve.es/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://ztnr.rtve.es/ztnr/16464399.m3u8
+
+#EXTINF:-1 group-title="RTVE Temáticos" tvg-name="RTVE Play Cuéntame" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200",RTVE Play Cuéntame
+#EXTVLCOPT:http-referrer=https://www.rtve.es/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://ztnr.rtve.es/ztnr/16464390.m3u8
